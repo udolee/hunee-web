@@ -4,11 +4,8 @@ date: {}
 draft: false
 published: true
 ---
-Prose test text
-
 |   |   |
 |---|---|
-| 12.31.2018 | NYE AGAINAGAIN !!!  |
 | 12.31.2018 | NYE – NYD – Happy New Year !!!  |
 | 12.29.2018 | Goa Club – Rome – IT   |
 | 12.28.2018 | Le Zoo – Geneva – CH    |
