@@ -1,0 +1,4 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "H-Test Site"
+publishDir= "~/website/_github/clean3-test"

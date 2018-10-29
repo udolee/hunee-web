@@ -1,0 +1,62 @@
+{{ partial "default_head.html" . }}
+
+<body>
+<div class=main-container>
+     <div class="container">
+        <div class="row">
+           <div class="twelve columns">
+                <div class="header-col1">
+                    {{ partial "header.html" . }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div id="overlay" style="display: none;">
+        <div class="fadein-container">
+            <div class="fadein">
+                {{ partial "intro-photo.html" . }}
+            </div>
+        </div>
+    </div><!-- overlay end -->
+
+
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
+                <div class="book-sns">
+                  {{ with .GetPage "book-sns.md" }}
+                      {{ .Content }}
+                  {{end}}
+                </div>
+            </div>
+        </div> <!-- row end -->
+    </div> <!-- Container end -->
+
+
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
+                <div class="content">
+                    {{ with .GetPage "Dates.md" }}
+                        {{ .Content }}
+                    {{end}}
+                </div>
+            </div>
+        </div> <!-- row end -->
+    </div> <!-- Container end -->
+
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
+                <footer>
+                    {{ partial "footer.html" . }}
+                </footer>
+            </div>
+        </div> <!-- row end -->
+    </div> <!-- Container end -->
+</div> <!-- main-container end -->
+
+{{ partial "default_footer.html" . }}
