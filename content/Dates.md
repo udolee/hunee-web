@@ -1,9 +1,10 @@
 ---
-title: "Dates"
-date: 2018-08-10T22:50:28+09:00
+title: Dates
+date: {}
 draft: true
-
+published: true
 ---
+Prose test text
 
 |   |   |
 |---|---|
