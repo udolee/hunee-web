@@ -6,7 +6,7 @@ published: true
 ---
 |   |   |
 |---|---|
-| 12.31.2018 | NYE – NYD – Happy New Year !!!  |
+| 12.31.2018 | NYE – NYD – Happy New Year !!! Easter egg |
 | 12.29.2018 | Goa Club – Rome – IT   |
 | 12.28.2018 | Le Zoo – Geneva – CH    |
 | 12.21.2018 | De School w/ Antal b2b all night – Amsterdam – NL  |
