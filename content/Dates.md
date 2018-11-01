@@ -4,6 +4,8 @@ date: {}
 draft: false
 
 ---
+Some text I inserted via Prose
+
 |   |   |
 |---|---|
 | 12.31.2018 | NYE – NYD – Happy New Year !!! |
