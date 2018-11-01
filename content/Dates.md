@@ -1,9 +1,11 @@
 ---
-title: "Dates"
+title: Dates
 date: {}
 draft: true
 published: true
 ---
+Some text I inserted via Prose
+
 |   |   |
 |---|---|
 | 12.31.2018 | NYE – NYD – Happy New Year !!! |
