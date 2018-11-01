@@ -4,7 +4,7 @@ date:
   .Date: null
 published: true
 ---
-Some text I inserted via Prose
+Some text I inserted via Prose  
 More text from PROSE
 
 |   |   |
