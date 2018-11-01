@@ -1,11 +1,14 @@
 ---
 title: Dates
-date: {.Date}
-
-
+date:
+  .Date: null
+published: true
 ---
-Some text I inserted via Prose
-More text from PROSE
+Some text I inserted via Prose  
+
+More text from PROSE  
+
+AND SOME MORRRRE   
 
 |   |   |
 |---|---|
