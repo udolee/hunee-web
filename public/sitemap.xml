@@ -8,13 +8,12 @@
   </url>
   
   <url>
-    <loc>/dates/</loc>
-    <lastmod>2018-08-10T22:50:28+09:00</lastmod>
+    <loc>/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <priority>0</priority>
+    <loc>/dates/</loc>
   </url>
   
   <url>
