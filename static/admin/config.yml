@@ -6,13 +6,13 @@ media_folder: "static/images"
 
 collections:
 
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
+  - name: "Dates.md" # Used in routes, e.g., /admin/collections/blog
 
-    label: "Post" # Used in the UI
+    label: "Dates" # Used in the UI
 
-    folder: "content/post" # The path to the folder where the documents are stored
+    folder: "content" # The path to the folder where the documents are stored
 
-    create: true # Allow users to create new documents in this collection
+    create: "false" # Allow users to create new documents in this collection
 
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
 
@@ -22,10 +22,6 @@ collections:
         name: "title"
         widget: "string"
 
-      - label: "Publish Date"
-        name: "date"
-        required: false
-        widget: "datetime"
 
       - label: "Draft"
         name: "draft"
@@ -33,42 +29,6 @@ collections:
         widget: "boolean"
         default: true
 
-      - label: "Categories"
-        name: "categories"
-        required: false
-        widget: "list"
-
-      - label: "Tags"
-        name: "tags"
-        required: false
-        widget: "list"
-
-      - label: "Keywords"
-        name: "keywords"
-        required: false
-        widget: "list"
-
-      - label: "Auto Thumbnail Image"
-        name: "autoThumbnailImage"
-        required: false
-        widget: "boolean"
-        default: true
-
-      - label: "Thumbnail Image Position"
-        name: "thumbnailImagePosition"
-        required: false
-        widget: "select"
-        options: ["left", "top", "right"]
-
-      - label: "Thumbnail Image"
-        name: "thumbnailImage"
-        required: false
-        widget: "image"
-
-      - label: "Cover Image"
-        name: "coverImage"
-        required: false
-        widget: "image"
 
       - label: "Body"
         name: "body"
