@@ -1,10 +1,11 @@
 ---
 title: Dates
-date: {}
+date: {.Date}
 
 
 ---
 Some text I inserted via Prose
+More text from PROSE
 
 |   |   |
 |---|---|
