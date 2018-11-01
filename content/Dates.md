@@ -1,7 +1,7 @@
 ---
 title: Dates
 date: {}
-draft: false
+
 
 ---
 Some text I inserted via Prose
