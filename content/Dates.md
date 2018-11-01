@@ -5,8 +5,10 @@ date:
 published: true
 ---
 Some text I inserted via Prose  
-More text from PROSE
 
+More text from PROSE  
+
+AND SOME MORRRRE
 |   |   |
 |---|---|
 | 12.31.2018 | NYE – NYD – Happy New Year !!! |
