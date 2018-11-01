@@ -1,8 +1,8 @@
 ---
-title: "Dates"
+title: Dates
 date: {}
-draft: true
-published: true
+draft: false
+
 ---
 |   |   |
 |---|---|
