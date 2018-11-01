@@ -12,7 +12,7 @@ collections:
 
     folder: "content" # The path to the folder where the documents are stored
 
-    create: "false" # Allow users to create new documents in this collection
+    create: true # Allow users to create new documents in this collection
 
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
 
@@ -22,6 +22,10 @@ collections:
         name: "title"
         widget: "string"
 
+      - label: "Publish Date"
+        name: "date"
+        required: false
+        widget: "datetime"
 
       - label: "Draft"
         name: "draft"
