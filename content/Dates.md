@@ -8,7 +8,8 @@ Some text I inserted via Prose
 
 More text from PROSE  
 
-AND SOME MORRRRE
+AND SOME MORRRRE   
+
 |   |   |
 |---|---|
 | 12.31.2018 | NYE – NYD – Happy New Year !!! |
