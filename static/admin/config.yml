@@ -6,9 +6,9 @@ media_folder: "static/images"
 
 collections:
 
-  - name: "Posts" # Used in routes, e.g., /admin/collections/blog
+  - name: "Content" # Used in routes, e.g., /admin/collections/blog
 
-    label: "Posts" # Used in the UI
+    label: "Content" # Used in the UI
 
     folder: "content" # The path to the folder where the documents are stored
 
