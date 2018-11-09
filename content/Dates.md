@@ -2,9 +2,10 @@
 title: Dates
 date:
   .Date: null
+draft: false
 ---
-|            |            |                                                                                                                                             
-| ---------- | ---------- | 
+|            |                                                                                                                                                                                                      |     |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 12.31.2018 | NYE – NYD – Happy New Year !!!                                                                                                                                                                       |     |
 | 12.29.2018 | Goa Club – Rome – IT                                                                                                                                                                                 |     |
 | 12.28.2018 | Le Zoo – Geneva – CH                                                                                                                                                                                 |     |
@@ -17,9 +18,9 @@ date:
 | 12.01.2018 | OHM Festival – Delft – NL                                                                                                                                                                            |     |
 | 11.30.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.29.2018 | Polaris Festival – Verbier – FR                                                                                                                                                                      |     |
+| 11.26.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.24.2018 | Journeys x Razzmatazz – Barcelona – ES                                                                                                                                                               |     |
 | 11.23.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
-| 11.26.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.10.2018 | Club Modular w/ Orpheu the Wizard – Rotterdam – NL                                                                                                                                                   |     |
 | 11.09.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.02.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
