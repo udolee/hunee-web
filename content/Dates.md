@@ -2,10 +2,11 @@
 title: Dates
 date:
   .Date: null
+draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 12.31.2018 | NYE – NYD – Happy New Year !!!                                                                                                                                                                       |     |
+| 12.31.2018 | NYE x Tenax w/ Nu Guinea - Florence - IT                                                                                                                                                                    |     |
 | 12.29.2018 | Goa Club – Rome – IT                                                                                                                                                                                 |     |
 | 12.28.2018 | Le Zoo – Geneva – CH                                                                                                                                                                                 |     |
 | 12.21.2018 | De School w/ Antal b2b all night – Amsterdam – NL                                                                                                                                                    |     |
@@ -17,11 +18,13 @@ date:
 | 12.01.2018 | OHM Festival – Delft – NL                                                                                                                                                                            |     |
 | 11.30.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.29.2018 | Polaris Festival – Verbier – FR                                                                                                                                                                      |     |
+| 11.26.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.24.2018 | Journeys x Razzmatazz – Barcelona – ES                                                                                                                                                               |     |
 | 11.23.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
-| 11.26.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.10.2018 | Club Modular w/ Orpheu the Wizard – Rotterdam – NL                                                                                                                                                   |     |
-| 11.09.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
+| 11.09.2018 | Postcards from Hunee x XOYO – London – UK     
+|     |
+| 11.03.2018 | Brilliant Corners Birthday Party x Giant Steps – London – UK                                                                                                                                                          |     |
 | 11.02.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 10.31.2018 | Untzdag x Jaeger w/ Oyvind Morken – Oslo – NO                                                                                                                                                        |     |
 | 10.27.2018 | Mint Warehouse w/ Jayda G & DJ Fett Burger – Leeds – UK                                                                                                                                              |     |
