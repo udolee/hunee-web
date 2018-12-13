@@ -7,10 +7,11 @@ draft: false
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | 01.01.2019 | NYD x WHP w/ Daphni b2b - Manchester - UK                                                                                                                                                                    |     |
-| 01.01.2019 | NYD x Motion - Bristol - UK                                                                                                                                                                   |     |
+| 01.01.2019 | NYD x Motion - Bristol- UK                                                                                                                                                                    |     |
 | 12.31.2018 | NYE x Tenax w/ Nu Guinea - Florence - IT                                                                                                                                                                    |     |
 | 12.29.2018 | Goa Club – Rome – IT                                                                                                                                                                                 |     |
 | 12.28.2018 | Le Zoo – Geneva – CH                                                                                                                                                                                 |     |
+| 12.22.2018 | Family x Electric – Galway – IE                                                                                                                                                    |     |
 | 12.21.2018 | De School w/ Antal b2b all night – Amsterdam – NL                                                                                                                                                    |     |
 | 12.15.2018 | Discotekken x Button Factory – Dublin – IE                                                                                                                                                           |     |
 | 12.14.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
@@ -23,6 +24,8 @@ draft: false
 | 11.26.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
 | 11.24.2018 | Journeys x Razzmatazz – Barcelona – ES                                                                                                                                                               |     |
 | 11.23.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                            |     |
+| 11.17.2018 | La Cheetah x All Night - Glasgow - UK                                                                                                                                                   |     |
+| 11.16.2018 | Postcards from Hunee x XOYO – London – UK                                                                                                                                                     |     |
 | 11.10.2018 | Club Modular w/ Orpheu the Wizard – Rotterdam – NL                                                                                                                                                   |     |
 | 11.09.2018 | Postcards from Hunee x XOYO – London – UK     
 |     |
