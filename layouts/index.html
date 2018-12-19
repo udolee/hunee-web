@@ -21,13 +21,26 @@
             </div>
         </div>
     </div><!-- overlay end -->
+    
 
+    <div class="container">
+        <div class="row">
+            <div class="twelve columns">
+                <div class="content">
+                    {{ with .GetPage "Dates.md" }}
+                        {{ .Content }}
+                    {{end}}
+                </div>
+            </div>
+        </div> <!-- row end -->
+    </div> <!-- Container end -->
+    
 
     <div class="container">
         <div class="row">
             <div class="twelve columns">
                 <div class="book-sns">
-                  {{ with .GetPage "book-sns.md" }}
+                  {{ with .GetPage "booking.md" }}
                       {{ .Content }}
                   {{end}}
                 </div>
@@ -39,10 +52,10 @@
     <div class="container">
         <div class="row">
             <div class="twelve columns">
-                <div class="content">
-                    {{ with .GetPage "Dates.md" }}
-                        {{ .Content }}
-                    {{end}}
+                <div class="book-sns">
+                  {{ with .GetPage "sns.md" }}
+                      {{ .Content }}
+                  {{end}}
                 </div>
             </div>
         </div> <!-- row end -->
