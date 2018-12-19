@@ -16,7 +16,6 @@
     "url": "https://github.com/udolee/hunee-web/issues"
   },
   "homepage": "https://github.com/udolee/hunee-web#readme",
-  "devDependencies": {
-    "gulp": "^4.0.0"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
