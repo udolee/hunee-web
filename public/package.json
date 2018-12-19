@@ -1,0 +1,22 @@
+{
+  "name": "hunee-git",
+  "version": "1.0.0",
+  "description": "hunee website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udolee/hunee-web.git"
+  },
+  "author": "udolee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udolee/hunee-web/issues"
+  },
+  "homepage": "https://github.com/udolee/hunee-web#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
