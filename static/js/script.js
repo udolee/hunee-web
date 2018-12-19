@@ -29,11 +29,6 @@ $(document).ready(function(){
 //	
 
 
-//	$('#overlay').animate({ 
-//        'backgroundColor': 'rgb('+ (Math.floor(Math.random() * 256)) +','+ 
-//		(Math.floor(Math.random()*256)) +','+ 
-//		(Math.floor(Math.random() * 256)) +')'
- //   }, 150);
 	 e.stopPropagation();
 	});
 	
