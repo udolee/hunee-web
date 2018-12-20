@@ -295,6 +295,7 @@
   @media (max-width: 549px) {
     footer {
       margin-left: -74px;
+      font-size: 1.5rem;
     }
   }
   /*==================================================*/
