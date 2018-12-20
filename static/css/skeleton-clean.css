@@ -234,7 +234,7 @@
 
 @media (max-width: 549px) {
   .sns {
-    margin-top: 1rem;
+    margin-top: -1rem;
   }
 }
 .sns li {
