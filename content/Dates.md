@@ -6,6 +6,21 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 03.29.2019 | Beat Hotel Marrakesh - Marrakesh - MAR                                                                                                                                                                    |     |
+| 03.23.2019 | Cafe Berlin - Madrid - ES                                                                                                                                                                    |     |
+| 03.22.2019 | Nitsa - Barcelona - ES                                                                                                                                                                    |     |
+| 03.16.2019 | WAS w/ Sassy J - Utrecht - NL                                                                                                                                                                    |     |
+| 03.15.2019 | AVA x Printworks - London - UK                                                                                                                                                                    |     |
+| 03.09.2019 | Karlstorbahnhof - Heidelberg - DE                                                                                                                                                                    |     |
+| 03.08.2019 | Hope Works - Sheffield - UK                                                                                                                                                                    |     |
+| 03.01.2019 | Die Rakete - Nuremberg - DE                                                                                                                                                                    |     |
+| 02.23.2019 | Culture Box - Copenhagen - DNK                                                                                                                                                                    |     |
+| 02.22.2019 | Concrete - Paris - FR                                                                                                                                                                    |     |
+| 02.15.2019 | Mint Club - Leeds - UK                                                                                                                                                                    |     |
+| 02.09.2019 | Panorama Bar - Berlin - DE                                                                                                                                                                    |     |
+| 02.08.2019 | PAL - Hamburg - DE                                                                                                                                                                    |     |
+| 02.03.2019 | Festimi - Amsterdam - NL                                                                                                                                                                    |     |
+| 02.02.2019 | Kaiku - Helsinki - FIN                                                                                                                                                                    |     |
 | 01.25.2019 | Reasons To Be Cheerful x WHQ - Newcastle - UK                                                                                                                                                                    |     |
 | 01.12.2019 | Bar x All Night Long - Rotterdam - NL                                                                                                                                                                    |     |
 | 01.01.2019 | NYD x WHP w/ Daphni b2b - Manchester - UK                                                                                                                                                                    |     |
