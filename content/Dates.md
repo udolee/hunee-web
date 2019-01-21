@@ -13,7 +13,7 @@ draft: false
 | 03.15.2019 | AVA x Printworks - London - UK                                                                                                                                                                    |     |
 | 03.09.2019 | Karlstorbahnhof - Heidelberg - DE                                                                                                                                                                    |     |
 | 03.08.2019 | Hope Works w/ Juju & Jordash (live) - Sheffield - UK                                                                                                                                                                    |     |
-| 03.02.2019 | tba                                                                                                                                                                   |     |
+| 03.02.2019 | tba                                                                                                                                                                |     |
 | 03.01.2019 | Die Rakete - Nuremberg - DE                                                                                                                                                                    |     |
 | 02.23.2019 | Culture Box - Copenhagen - DNK                                                                                                                                                                    |     |
 | 02.22.2019 | Concrete w/ Sassy J - Paris - FR                                                                                                                                                                    |     |
