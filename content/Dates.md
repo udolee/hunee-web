@@ -6,6 +6,15 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 04.29.2019 | Rainbow Disco Club w/ Antal - Kamo-Gun - JP                                                                                                                                                                |     |
+| 04.27.2019 | tba - Amsterdam - NL                                                                                                                                                                |     |
+| 04.22.2019 | Panorama Bar - Berlin - DE                                                                                                                                                                |     |
+| 04.18.2019 | Elysia w/ Antal - Münchenstein - CH                                                                                                                                                                |     |
+| 04.13.2019 | Dude Club - Milan - IT                                                                                                                                                                |     |
+| 04.12.2019 | Blitz - Munich - DE                                                                                                                                                                |     |
+| 04.11.2019 | Snowbombing - Mayrhofen - AT                                                                                                                                                                |     |
+| 04.06.2019 | C12 w/ Call Super - Brussels - BE                                                                                                                                                                 |     |
+| 04.05.2019 | tba - Amsterdam - NL                                                                                                                                                                   |     |
 | 03.30.2019 | ID Nolimits Festival - Estoril - PT                                                                                                                                                                    |     |
 | 03.29.2019 | Beat Hotel Marrakesh - Marrakesh - MA                                                                                                                                                                   |     |
 | 03.23.2019 | Cafe Berlin - Madrid - ES                                                                                                                                                                    |     |
@@ -14,7 +23,7 @@ draft: false
 | 03.15.2019 | AVA x Printworks - London - UK                                                                                                                                                                    |     |
 | 03.09.2019 | Karlstorbahnhof - Heidelberg - DE                                                                                                                                                                    |     |
 | 03.08.2019 | Hope Works w/ Juju & Jordash (live) - Sheffield - UK                                                                                                                                                                    |     |
-| 03.02.2019 | tba                                                                                                                                                                |     |
+| 03.02.2019 | Ankali - Prague - CZ                                                                                                                                                              |     |
 | 03.01.2019 | Die Rakete - Nuremberg - DE                                                                                                                                                                    |     |
 | 02.23.2019 | Culture Box - Copenhagen - DNK                                                                                                                                                                    |     |
 | 02.22.2019 | Concrete w/ Sassy J - Paris - FR                                                                                                                                                                    |     |
