@@ -6,6 +6,13 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 05.31.2019 | Distortion Festival - Copenhagen - DK                                                                                                                                                                |     |
+| 05.26.2019 | Riverside Festival w/ Daphni b2b - Glasgow - UK                                                                                                                                                                |     |
+| 05.25.2019 | Patterns - Brighton - UK                                                                                                                                                                |     |
+| 05.24.2019 | Stealth - Nottingham - UK                                                                                                                                                                |     |
+| 05.18.2019 | 4GB Festival - Tbilisi - GE                                                                                                                                                                |     |
+| 05.04.2019 | 宀 - Hongkong - CN                                                                                                                                                                |     |
+| 05.03.2019 | tba - Tokyo - JP                                                                                                                                                                |     |
 | 04.29.2019 | Rainbow Disco Club w/ Antal - Kamo-Gun - JP                                                                                                                                                                |     |
 | 04.27.2019 | Oranjebloesem - Amsterdam - NL                                                                                                                                                                |     |
 | 04.22.2019 | Panorama Bar - Berlin - DE                                                                                                                                                                |     |
@@ -14,7 +21,7 @@ draft: false
 | 04.12.2019 | Blitz - Munich - DE                                                                                                                                                                |     |
 | 04.11.2019 | Snowbombing - Mayrhofen - AT                                                                                                                                                                |     |
 | 04.06.2019 | C12 w/ Call Super - Brussels - BE                                                                                                                                                                 |     |
-| 04.05.2019 | tba - Amsterdam - NL                                                                                                                                                                   |     |
+| 04.05.2019 | RH Weekender w/ Terrence Dixon, Lovefingers & Margie - Amsterdam - NL                                                                                                                                                                   |     |
 | 03.30.2019 | ID Nolimits Festival - Estoril - PT                                                                                                                                                                    |     |
 | 03.29.2019 | Beat Hotel Marrakesh - Marrakesh - MA                                                                                                                                                                   |     |
 | 03.23.2019 | Cafe Berlin - Madrid - ES                                                                                                                                                                    |     |
@@ -25,7 +32,7 @@ draft: false
 | 03.08.2019 | Hope Works w/ Juju & Jordash (live) - Sheffield - UK                                                                                                                                                                    |     |
 | 03.02.2019 | Ankali - Prague - CZ                                                                                                                                                              |     |
 | 03.01.2019 | Die Rakete - Nuremberg - DE                                                                                                                                                                    |     |
-| 02.23.2019 | Culture Box - Copenhagen - DNK                                                                                                                                                                    |     |
+| 02.23.2019 | Culture Box - Copenhagen - DK                                                                                                                                                                    |     |
 | 02.22.2019 | Concrete w/ Sassy J - Paris - FR                                                                                                                                                                    |     |
 | 02.15.2019 | Mint Club - Leeds - UK                                                                                                                                                                    |     |
 | 02.09.2019 | Panorama Bar - Berlin - DE                                                                                                                                                                    |     |
