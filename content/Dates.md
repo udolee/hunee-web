@@ -6,7 +6,7 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 09.15.2019 | Nova Batida - Lisbon - PT                                                                                                                                                   |     |
+| 09.15.2019 | Nova Batida Festival - Lisbon - PT                                                                                                                                                   |     |
 | 09.14.2019 | Draaimolen Festival - Tilburg - NL                                                                                                                                                   |     |
 | 09.13.2019 | Gewölbe - Cologne - DE                                                                                                                                                     |     |
 | 09.08.2019 | Whoosah Beachclub w/ Ben UFO - The Hague - NL                                                                                                                                                        |     |
@@ -16,7 +16,7 @@ draft: false
 | 08.29.2019 | Dimensions Festival x Beach Stage - Pula - HR                                                                                                                                                         |     |
 | 08.28.2019 | Dimensions Festival x Amphitheatre - Pula - HR                                                                                                                                                             |     |
 | 08.25.2019 | Giant Steps - London - UK                                                                                                                                                                |     |
-| 08.24.2019 | Lost Village - Lincoln - UK                                                                                                                                                                |     |
+| 08.24.2019 | Lost Village Festival - Lincoln - UK                                                                                                                                                                |     |
 | 08.17.2019 | Pukkelpop Festival - Kiewit Hasselt - BE                                                                                                                                                               |     |
 | 08.16.2019 | Lowlands Festival - Biddinghuizen - NL                                                                                                                                                                |     |
 | 08.11.2019 | Houghton Festival x Giant Steps - Houghton - UK                                                                                                                                                                |     |
@@ -25,7 +25,7 @@ draft: false
 | 07.27.2019 | Present Perfect Festival - St. Petersburg - RU                                                                                                                                                                |     |
 | 07.26.2019 | 20/44 - Belgrade - RS                                                                                                                                                                |     |
 | 07.20.2019 | Panorama Bar - Berlin - DE                                                                                                                                                                |     |
-| 07.19.2019 | OFF Sonar: Rush Hour x Detroit Love - Barcelona - ES                                                                                                                                                                |     |
+| 07.19.2019 | Off Sonar: Rush Hour x Detroit Love - Barcelona - ES                                                                                                                                                                |     |
 | 07.17.2019 | Pikes - Ibiza - ES                                                                                                                                                                |     |
 | 07.13.2019 | Glitch Club Series - Rabat - MT                                                                                                                                                                |     |
 | 07.12.2019 | Manifest - Vienna - AT                                                                                                                                                                |     |
