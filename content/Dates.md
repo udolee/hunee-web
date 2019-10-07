@@ -6,6 +6,19 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 11.02.2019 | Dabadaba - San Sebastian - ES                                                                                                                                                   |     |
+| 11.01.2019 | Astin - Barcelona - ES                                                                                                                                                   |     |
+| 10.31.2019 | Perola Negra - Porto - PT                                                                                                                                                   |     |
+| 10.20.2019 | Garage Noord - Amsterdam - NL                                                                                                                                                   |     |
+| 10.19.2019 | Shelter - Amsterdam - NL                                                                                                                                                   |     |
+| 10.18.2019 | Sub Club - Glasgow - UK                                                                                                                                                   |     |
+| 10.14.2019 | Romanos - Tel Aviv - IL                                                                                                                                                   |     |
+| 10.14.2019 | DGTL - Tel Aviv - IL                                                                                                                                                   |     |
+| 10.12.2019 | Papa Maman - Lyon - FR                                                                                                                                                   |     |
+| 10.11.2019 | Wire w/ Cosmic Slop Tom - Leeds - UK                                                                                                                                                   |     |
+| 10.05.2019 | Breezeblock - Belfast - UK                                                                                                                                                   |     |
+| 10.04.2019 | Printworks w/ Antal - London - UK                                                                                                                                                   |     |
+| 09.16.2019 | Nova Batida Beach Party - Lisbon - PT                                                                                                                                                   |     |
 | 09.15.2019 | Nova Batida Festival - Lisbon - PT                                                                                                                                                   |     |
 | 09.14.2019 | Draaimolen Festival - Tilburg - NL                                                                                                                                                   |     |
 | 09.13.2019 | Gewölbe - Cologne - DE                                                                                                                                                     |     |
