@@ -6,18 +6,29 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 12.31.2019 | NYE - London - UK                                                                                                                                                   |     |
+| 12.20.2019 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
+| 12.18.2019 | Antisocial - Mumbai - IN                                                                                                                                                   |     |
+| 12.15.2019 | Magnetic Fields - Alsisar Mahal - IN                                                                                                                                                   |     |
+| 12.07.2019 | Contra - Seoul - KR                                                                                                                                                   |     |
+| 12.06.2019 | Rush Hour x Contact w/ Antal b2b - Tokyo - JP                                                                                                                                                   |     |
+| 11.30.2019 | Djoon x All Night Long - Paris - FR                                                                                                                                                   |     |
+| 11.29.2019 | Abandon Silence - Liverpool - UK                                                                                                                                                   |     |
+| 11.23.2019 | Basic Club - Naples - IT                                                                                                                                                   |     |
+| 11.22.2019 | Goa Club - Rome - IT                                                                                                                                                   |     |
+| 11.09.2019 | WHP - Manchester - UK                                                                                                                                                   |     |
 | 11.02.2019 | Dabadaba - San Sebastian - ES                                                                                                                                                   |     |
 | 11.01.2019 | Astin - Barcelona - ES                                                                                                                                                   |     |
 | 10.31.2019 | Perola Negra - Porto - PT                                                                                                                                                   |     |
-| 10.20.2019 | Garage Noord - Amsterdam - NL                                                                                                                                                   |     |
+| 10.20.2019 | Garage Noord w/ Orpheu The Wizard b2b - Amsterdam - NL                                                                                                                                                   |     |
 | 10.19.2019 | Shelter - Amsterdam - NL                                                                                                                                                   |     |
-| 10.18.2019 | Sub Club - Glasgow - UK                                                                                                                                                   |     |
+| 10.18.2019 | Sub Club w/ Solar - Glasgow - UK                                                                                                                                                   |     |
 | 10.14.2019 | Romanos - Tel Aviv - IL                                                                                                                                                   |     |
 | 10.14.2019 | DGTL - Tel Aviv - IL                                                                                                                                                   |     |
-| 10.12.2019 | Papa Maman - Lyon - FR                                                                                                                                                   |     |
+| 10.12.2019 | Papa Maman w/ Call Super - Lyon - FR                                                                                                                                                   |     |
 | 10.11.2019 | Wire w/ Cosmic Slop Tom - Leeds - UK                                                                                                                                                   |     |
 | 10.05.2019 | Breezeblock - Belfast - UK                                                                                                                                                   |     |
-| 10.04.2019 | Printworks w/ Antal - London - UK                                                                                                                                                   |     |
+| 10.04.2019 | Printworks w/ Antal b2b - London - UK                                                                                                                                                   |     |
 | 09.16.2019 | Nova Batida Beach Party - Lisbon - PT                                                                                                                                                   |     |
 | 09.15.2019 | Nova Batida Festival - Lisbon - PT                                                                                                                                                   |     |
 | 09.14.2019 | Draaimolen Festival - Tilburg - NL                                                                                                                                                   |     |
