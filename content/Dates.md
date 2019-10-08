@@ -24,7 +24,7 @@ draft: false
 | 10.19.2019 | Shelter - Amsterdam - NL                                                                                                                                                   |     |
 | 10.18.2019 | Sub Club w/ Solar - Glasgow - UK                                                                                                                                                   |     |
 | 10.14.2019 | Romanos - Tel Aviv - IL                                                                                                                                                   |     |
-| 10.14.2019 | DGTL - Tel Aviv - IL                                                                                                                                                   |     |
+| 10.14.2019 | DGTL Festival - Tel Aviv - IL                                                                                                                                                   |     |
 | 10.12.2019 | Papa Maman w/ Call Super - Lyon - FR                                                                                                                                                   |     |
 | 10.11.2019 | Wire w/ Cosmic Slop Tom - Leeds - UK                                                                                                                                                   |     |
 | 10.05.2019 | Breezeblock - Belfast - UK                                                                                                                                                   |     |
