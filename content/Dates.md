@@ -13,8 +13,7 @@ draft: false
 | 04.09.2020 | Elysia w/ Antal x All Night - Münchenstein - CH                                                                                                                                                   |     |
 | 04.04.2020 | ASE x OHM x All Night - Berlin - DE                                                                                                                                                   |     |
 | 03.29.2020 | Phonox x 10hr Set - London - UK                                                                                                                                                   |     |
-| 03.27.2020 | Gewölbe - Cologne - DE                                                                                                                                                   |     |
-| 03.21.2020 | Tunnel - Milan - IT                                                                                                                                                   |     |
+| 03.27.2020 | Gewölbe - Cologne - DE                                                                                                                                                                                                                                                                                                     |     |
 | 03.08.2020 | Pitch Festival - Mafeking - AU                                                                                                                                                   |     |
 | 03.07.2020 | Centre Source - Brisbane - AU                                                                                                                                                   |     |
 | 03.07.2020 | Days Like This Festival - Sydney - AU                                                                                                                                                   |     |
