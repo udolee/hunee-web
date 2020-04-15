@@ -1,19 +1,12 @@
 ---
 title: Dates
 date:
-  .Date: null
+  ? .Date
 draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 04.30.2020 | O2 Factory - Oxford - UK                                                                                                                                                   |     |
-| 04.27.2020 | Oranjebloesem - Amsterdam - NL                                                                                                                                                                                                                                                                                                  |     |
-| 04.11.2020 | La Belle Electrique - Grenoble - FR                                                                                                                                                   |     |
-| 04.10.2020 | Dehors Brut - Paris - FR                                                                                                                                                   |     |
-| 04.09.2020 | Elysia w/ Antal x All Night - Münchenstein - CH                                                                                                                                                   |     |
-| 04.04.2020 | ASE x OHM x All Night - Berlin - DE                                                                                                                                                   |     |
-| 03.29.2020 | Phonox x 10hr Set - London - UK                                                                                                                                                   |     |
-| 03.27.2020 | Gewölbe - Cologne - DE                                                                                                                                                                                                                                                                                                     |     |
+| xoxo                                                                                                                                                                                                                                                                                               |     |
 | 03.08.2020 | Pitch Festival - Mafeking - AU                                                                                                                                                   |     |
 | 03.07.2020 | Centre Source - Brisbane - AU                                                                                                                                                   |     |
 | 03.07.2020 | Days Like This Festival - Sydney - AU                                                                                                                                                   |     |
