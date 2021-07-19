@@ -6,6 +6,34 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 01.22.2021 | Nachtiville - Wangels - DE
+|     |
+| 11.13.2021 | WAS - Utrecht - NL
+|     |
+| 10.08.2021 | WHP - Manchester - UK
+|     |
+| 10.08.2021 | Kaiku - Helsinki - FI
+|     |
+| 09.25.2021 | WHP - Manchester - UK
+|     |
+| 09.24.2021 | Complex - Maastricht - NL
+|     |
+| 09.19.2021 | Phonox - London - UK
+|     |
+| 09.11.2021 | Naked City Festival - London - UK
+|     |
+| 09.04.2021 | DGTL - Barcelona - ES
+|     |
+| 09.03.2021 | Riverside Festival - Glasgow - UK
+|     |
+| 08.28.2021 | Dekmantel Selectors - Tisno - CR
+|     |
+| 08.14.2021 | Houghton - Houghton - UK
+|     |
+| 08.13.2021 | Baltic Weekender - Liverpool - UK
+|     |
+| 08.12.2021 | Kolorado Festival - Nagykovacsi - HU
+|     |
 | 07.24.2021 | Tradgarden - Stockholm - SE
 |     |
 | xoxo                                                                                                                                                                                                                                                                                               |     |
