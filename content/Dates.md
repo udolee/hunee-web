@@ -28,15 +28,13 @@ draft: false
 |     |
 | 08.28.2021 | Dekmantel Selectors - Tisno - CR
 |     |
-| 08.14.2021 | Houghton - Houghton - UK
-|     |
 | 08.13.2021 | Baltic Weekender - Liverpool - UK
 |     |
 | 08.12.2021 | Kolorado Festival - Nagykovacsi - HU
 |     |
 | 07.24.2021 | Tradgarden - Stockholm - SE
 |     |
-| xoxo                                                                                                                                                                                                                                                                                               |     |
+| xoxo |                                                                                                                                                                                                                                                                                                |     |
 | 03.08.2020 | Pitch Festival - Mafeking - AU                                                                                                                                                   |     |
 | 03.07.2020 | Centre Source - Brisbane - AU                                                                                                                                                   |     |
 | 03.07.2020 | Days Like This Festival - Sydney - AU                                                                                                                                                   |     |
