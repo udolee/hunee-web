@@ -10,7 +10,9 @@ draft: false
 |     |
 | 11.13.2021 | WAS - Utrecht - NL
 |     |
-| 10.08.2021 | WHP - Manchester - UK
+| 10.23.2021 | Wire - Leeds - UK
+|     |
+| 10.09.2021 | WHP - Manchester - UK
 |     |
 | 10.08.2021 | Kaiku - Helsinki - FI
 |     |
@@ -21,8 +23,6 @@ draft: false
 | 09.19.2021 | Phonox - London - UK
 |     |
 | 09.11.2021 | Naked City Festival - London - UK
-|     |
-| 09.04.2021 | DGTL - Barcelona - ES
 |     |
 | 09.03.2021 | Riverside Festival - Glasgow - UK
 |     |
