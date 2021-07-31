@@ -16,6 +16,8 @@ draft: false
 |     |
 | 10.08.2021 | Kaiku - Helsinki - FI
 |     |
+| 09.26.2021 | Festival Contours - Paris - FR
+|     |
 | 09.25.2021 | WHP - Manchester - UK
 |     |
 | 09.24.2021 | Complex - Maastricht - NL
