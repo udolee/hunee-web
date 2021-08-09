@@ -30,6 +30,8 @@ draft: false
 |     |
 | 08.28.2021 | Dekmantel Selectors - Tisno - CR
 |     |
+| 08.27.2021 | Karrusel - Copenhagen - DK
+|     |
 | 08.13.2021 | Baltic Weekender - Liverpool - UK
 |     |
 | 08.12.2021 | Kolorado Festival - Nagykovacsi - HU
