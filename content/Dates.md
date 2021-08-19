@@ -20,10 +20,6 @@ draft: false
 |     |
 | 09.25.2021 | WHP - Manchester - UK
 |     |
-| 09.24.2021 | Complex - Maastricht - NL
-|     |
-| 09.19.2021 | Phonox - London - UK
-|     |
 | 09.11.2021 | Naked City Festival - London - UK
 |     |
 | 09.03.2021 | Riverside Festival - Glasgow - UK
