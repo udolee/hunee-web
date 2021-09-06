@@ -16,17 +16,23 @@ draft: false
 |     |
 | 10.08.2021 | Kaiku - Helsinki - FI
 |     |
+| 10.01.2021 | Plotze - Berlin - DE
+|     |
 | 09.26.2021 | Festival Contours - Paris - FR
 |     |
 | 09.25.2021 | WHP - Manchester - UK
 |     |
+| 09.18.2021 | tba - tba - NL
+|     |
 | 09.11.2021 | Naked City Festival - London - UK
+|     |
+| 09.10.2021 | Club Contrair - Antwerp - BE
 |     |
 | 09.03.2021 | Riverside Festival - Glasgow - UK
 |     |
 | 08.28.2021 | Dekmantel Selectors - Tisno - CR
 |     |
-| 08.27.2021 | Karrusel - Copenhagen - DK
+| 08.27.2021 | Karrusel Festival - Copenhagen - DK
 |     |
 | 08.13.2021 | Baltic Weekender - Liverpool - UK
 |     |
