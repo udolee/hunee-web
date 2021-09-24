@@ -6,23 +6,25 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| 01.22.2022 | Nachtiville - Wangels - DE
-|     |
 | 11.13.2021 | WAS - Utrecht - NL
 |     |
-| 10.23.2021 | Wire - Leeds - UK
+| 11.06.2021 | Magazine Club - Lille - FR
+|     |
+| 11.05.2021 | La Belle Electrique - Grenoble - FR
+|     |
+| 10.22.2021 | Complex - Maastricht - NL
+|     |
+| 10.17.2021 | De Werf - Amsterdam - NL
+|     |
+| 10.16.2021 | LoFi - Amsterdam - NL
 |     |
 | 10.09.2021 | WHP - Manchester - UK
-|     |
-| 10.08.2021 | Kaiku - Helsinki - FI
 |     |
 | 10.01.2021 | Plotze - Berlin - DE
 |     |
 | 09.26.2021 | Festival Contours - Paris - FR
 |     |
 | 09.25.2021 | WHP - Manchester - UK
-|     |
-| 09.18.2021 | tba - tba - NL
 |     |
 | 09.11.2021 | Naked City Festival - London - UK
 |     |
