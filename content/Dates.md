@@ -10,15 +10,13 @@ draft: false
 |     |
 | 12.31.2021 | NYE x Brixton Academy- London - UK
 |     |
-| 11.13.2021 | WAS - Utrecht - NL
-|     |
 | 11.06.2021 | Magazine Club - Lille - FR
 |     |
 | 11.05.2021 | La Belle Electrique - Grenoble - FR
 |     |
-| 10.17.2021 | De Werf - Amsterdam - NL
+| 10.17.2021 | Festimi x De Werf - Amsterdam - NL
 |     |
-| 10.16.2021 | LoFi - Amsterdam - NL
+| 10.16.2021 | Rush Hour x LoFi - Amsterdam - NL
 |     |
 | 10.09.2021 | WHP - Manchester - UK
 |     |
