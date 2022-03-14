@@ -18,7 +18,7 @@ draft: false
 |     |
 | 03.26.2022 | WAS w/ Orpheu - Utrecht - NL
 |     |
-| 03.26.2022 | LoFi w/ Tako & Sassy J - Amsterdam - NL
+| 03.19.2022 | LoFi w/ Tako & Sassy J - Amsterdam - NL
 |     |
 | 03.18.2022 | Euforia x Take It Easy - Milan - IT
 |     |
