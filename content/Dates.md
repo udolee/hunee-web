@@ -6,9 +6,21 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 05.01.2022 | Horst Festival - Vilvoorde - BE
+|     |
+| 04.14.2022 | Elysia - Munchenstein - CH
+|     |
 | 04.09.2022 | Nitsa - Barcelona - ES
 |     |
+| 04.02.2022 | Else w/ Young Marco - Berlin - DE
+|     |
+| 04.01.2022 | Kaiku - Helsinki - FI
+|     |
 | 03.26.2022 | WAS w/ Orpheu - Utrecht - NL
+|     |
+| 03.26.2022 | LoFi w/ Tako & Sassy J - Amsterdam - NL
+|     |
+| 03.18.2022 | Euforia x Take It Easy - Milan - IT
 |     |
 | 03.06.2022 | Phonox x 10hr set - London - UK
 |     |
