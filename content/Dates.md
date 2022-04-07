@@ -10,11 +10,11 @@ draft: false
 |     |
 | 06.24.2022 | Paraiso Festival - Madrid - ES
 |     |
-| 06.17.2022 | Life And Death x Sonar - Barcelona - ES
+| 06.17.2022 | Sonar x Life And Death - Barcelona - ES
 |     |
 | 06.11.2022 | Drift Festival - Nijmegen - NL
 |     |
-| 06.10.2022 | Melt Festival - Gräfenhainichen - DE
+| 06.10.2022 | Melt Festival w/ Palms Trax b2b - Gräfenhainichen - DE
 |     |
 | 06.04.2022 | The Crave Festival - The Hague - NL
 |     |
@@ -22,7 +22,7 @@ draft: false
 |     |
 | 06.03.2022 | Baltic Weekender - Liverpool - UK
 |     |
-| 06.02.2022 | Gala Festival - London - UK
+| 06.02.2022 | Gala Festival x Giant Steps - London - UK
 |     |
 | 05.28.2022 | 25 Ans Trax Magazine - Paris - FR
 |     |
@@ -32,7 +32,7 @@ draft: false
 |     |
 | 05.01.2022 | Horst Festival - Vilvoorde - BE
 |     |
-| 04.14.2022 | Elysia - Munchenstein - CH
+| 04.14.2022 | Elysia w/ Antal b2b - Munchenstein - CH
 |     |
 | 04.09.2022 | Nitsa - Barcelona - ES
 |     |
