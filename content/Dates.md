@@ -129,7 +129,7 @@ draft: false
 | 03.06.2020 | Animals Dancing - Melbourne - AU                                                                                                                                                  |     |
 | 03.01.2020 | Brunch w/ Floating Points - Barcelona - ES                                                                                                                                                   |     |
 | 12.31.2019 | NYE - London - UK                                                                                                                                                   |     |
-| 12.20.0219 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
+| 12.20.2019 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
 | 12.18.2019 | Antisocial - Mumbai - IN                                                                                                                                                   |     |
 | 12.15.2019 | Magnetic Fields - Alsisar Mahal - IN                                                                                                                                                   |     |
 | 12.07.2019 | Contra - Seoul - KR                                                                                                                                                   |     |
