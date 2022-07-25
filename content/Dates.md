@@ -6,6 +6,24 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 07.31.2022 |  Amnesia w/ Floating Points - Ibiza - ES
+|     |
+| 07.30.2022 |  Vox Marmoris - Carrara - IT
+|     |
+| 07.28.2022 |  Ortigia Soundsystem - Syracuse - IT
+|     |
+| 07.23.2022 |  Motion - Bristol - UK
+|     |
+| 07.18.2022 |  Love International w/ Antal & Palms Trax - Tisno - CR
+|     |
+| 07.16.2022 |  Sub Club Open-air - Glasgow - UK
+|     |
+| 07.13.2022 | Montreux Jazz Festival - Montreux - FR
+|     |
+| 07.04.2022 | Circoloco x DC 10 - Ibiza - ES
+|     |
+| 07.03.2022 | Paradise City Festival - Brussels - BE
+|     |
 | 06.25.2022 | Lux - Lisbon - PT
 |     |
 | 06.24.2022 | Paraiso Festival - Madrid - ES
