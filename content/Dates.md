@@ -6,6 +6,30 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| 09.24.2022 |  Expedition Festival - Rotterdam - NL
+|     |
+| 09.10.2022 |  The Warehouse Project - Manchester - UK
+|     |
+| 09.09.2022 |  Reasons To Be Cheerful x WHQ - Newcastle - UK
+|     |
+| 09.03.2022 |  DGTL Barcelona - Barcelona - ES
+|     |
+| 08.28.2022 |  Maiden Voyage - London - UK
+|     |
+| 08.27.2022 |  Lost Village - Lincolnshire - UK
+|     |
+| 08.25.2022 |  Dekmantel Selectors - Tisno - CR
+|     |
+| 08.14.2022 |  Glitch Festival - Gianpula - MT
+|     |
+| 08.13.2022 |  Pulsar Festival - Zirndorf - DE
+|     |
+| 08.12.2022 |  Houghton - Houghton - UK
+|     |
+| 08.07.2022 |  Dekmantel w/ Antal b2b - Amsterdam - NL
+|     |
+| 08.05.2022 |  Viva Festival - Valle D'ltria - IT
+|     |
 | 07.31.2022 |  Amnesia w/ Floating Points - Ibiza - ES
 |     |
 | 07.30.2022 |  Vox Marmoris - Carrara - IT
@@ -105,7 +129,7 @@ draft: false
 | 03.06.2020 | Animals Dancing - Melbourne - AU                                                                                                                                                  |     |
 | 03.01.2020 | Brunch w/ Floating Points - Barcelona - ES                                                                                                                                                   |     |
 | 12.31.2019 | NYE - London - UK                                                                                                                                                   |     |
-| 12.20.2019 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
+| 12.20.0219 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
 | 12.18.2019 | Antisocial - Mumbai - IN                                                                                                                                                   |     |
 | 12.15.2019 | Magnetic Fields - Alsisar Mahal - IN                                                                                                                                                   |     |
 | 12.07.2019 | Contra - Seoul - KR                                                                                                                                                   |     |
