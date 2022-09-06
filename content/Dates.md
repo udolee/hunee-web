@@ -8,13 +8,29 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | + booking + |  email: rieks@sonnet.agency
 |     |
+| 12.09.2022 |  Into The Deep x La Trabendo - Paris - FR
+|     |
+| 11.26.2022 |  Ostre - Bergen - NO
+|     |
+| 11.25.2022 |  Hangaren - Copenhagen - DK
+|     |
+| 11.11.2022 |  Fold - London - UK
+|     |
+| 10.29.2022 |  Wire - Leeds - UK
+|     |
+| 10.21.2022 |  Thuishaven ADE - Amsterdam - NL
+|     |
+| 10.08.2022 |  C12 - Brussels - BE
+|     |
+| 10.02.2022 |  tba - Turin - IT
+|     |
+| 10.01.2022 |  Basic Club x Re-opening Night - Naples - IT
+|     |
 | 09.24.2022 |  Expedition Festival - Rotterdam - NL
 |     |
 | 09.10.2022 |  The Warehouse Project - Manchester - UK
 |     |
 | 09.09.2022 |  Reasons To Be Cheerful x WHQ - Newcastle - UK
-|     |
-| 09.03.2022 |  DGTL Barcelona - Barcelona - ES
 |     |
 | 08.28.2022 |  Maiden Voyage - London - UK
 |     |
