@@ -8,13 +8,21 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | + booking + |  email: rieks@sonnet.agency
 |     |
+| 12.31.2022 |  NYE x Percolate x E1 - London - UK
+|     |
+| 12.31.2022 |  NYE x Lakota - Bristol - UK
+|     |
 | 12.09.2022 |  Into The Deep x La Trabendo - Paris - FR
+|     |
+| 11.27.2022 |  Polaris - Verbier - FR
 |     |
 | 11.26.2022 |  Ostre - Bergen - NO
 |     |
 | 11.25.2022 |  Hangaren - Copenhagen - DK
 |     |
-| 11.11.2022 |  Fold - London - UK
+| 11.12.2022 |  tba - Berlin - DE
+|     |
+| 11.11.2022 |  Fold w/ Palms Trax b2b - London - UK
 |     |
 | 10.29.2022 |  Wire - Leeds - UK
 |     |
@@ -22,9 +30,9 @@ draft: false
 |     |
 | 10.08.2022 |  C12 - Brussels - BE
 |     |
-| 10.02.2022 |  tba - Turin - IT
+| 10.02.2022 |  Grottesco x Bunker - Torino - IT
 |     |
-| 10.01.2022 |  Basic Club x Re-opening Night - Naples - IT
+| 10.01.2022 |  Re-opening Night x Basic Club - Naples - IT
 |     |
 | 09.24.2022 |  Expedition Festival - Rotterdam - NL
 |     |
