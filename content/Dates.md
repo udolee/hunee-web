@@ -20,7 +20,7 @@ draft: false
 |     |
 | 11.25.2022 |  Hangaren - Copenhagen - DK
 |     |
-| 11.12.2022 |  tba - Berlin - DE
+| 11.12.2022 |  Sound Metaphors x Club OST - Berlin - DE
 |     |
 | 11.11.2022 |  Fold w/ Palms Trax b2b - London - UK
 |     |
