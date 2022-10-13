@@ -26,7 +26,11 @@ draft: false
 |     |
 | 10.29.2022 |  Wire - Leeds - UK
 |     |
-| 10.21.2022 |  Thuishaven ADE - Amsterdam - NL
+| 10.23.2022 |  Audio Obscura ADE x The Loft - Amsterdam - NL
+|     |
+| 10.21.2022 |  Life & Death ADE x Thuishaven - Amsterdam - NL
+|     |
+| 10.20.2022 |  81 days of Sonnet x De Schietclub - Amsterdam - NL
 |     |
 | 10.08.2022 |  C12 - Brussels - BE
 |     |
