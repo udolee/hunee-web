@@ -12,7 +12,11 @@ draft: false
 |     |
 | 12.31.2022 |  NYE x Lakota - Bristol - UK
 |     |
+| 12.17.2022 |  Mo' Juice - Gent - BE
+|     |
 | 12.09.2022 |  Into The Deep x La Trabendo - Paris - FR
+|     |
+| 12.03.2022 |  Nitsa - Barcelona - ES
 |     |
 | 11.27.2022 |  Polaris - Verbier - FR
 |     |
