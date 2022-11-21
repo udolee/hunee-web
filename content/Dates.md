@@ -8,17 +8,19 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | + booking + |  email: rieks@sonnet.agency
 |     |
+| 01.01.2022 |  NYD - tba - NL
+|     |
 | 12.31.2022 |  NYE x Percolate x E1 - London - UK
 |     |
 | 12.31.2022 |  NYE x Lakota - Bristol - UK
+|     |
+| 12.23.2022 |  Lofi - Amsterdam - NL
 |     |
 | 12.17.2022 |  Mo' Juice - Gent - BE
 |     |
 | 12.09.2022 |  Into The Deep x La Trabendo - Paris - FR
 |     |
 | 12.03.2022 |  Nitsa - Barcelona - ES
-|     |
-| 11.27.2022 |  Polaris - Verbier - FR
 |     |
 | 11.26.2022 |  Ostre - Bergen - NO
 |     |
