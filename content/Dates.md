@@ -8,6 +8,28 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | + booking + |  email: rieks@sonnet.agency
 |     |
+| 05.28.2023 |  Gala Festival - London - UK
+|     |
+| 05.01.2023 |  Rainbow Disco Club w/ Antal b2b - Higashi-Izu - JP
+|     |
+| 04.15.2023 |  OHM - Berlin - DE
+|     |
+| 04.14.2023 |  Bird - Rotterdam - NL
+|     |
+| 04.09.2023 |  DGTL x NDSM - Amsterdam - NL
+|     |
+| 04.06.2023 |  Elysia w/ Antal b2b - Münchenstein - CH
+|     |
+| 03.25.2023 |  Wibar - Leiden - NL
+|     |
+| 03.24.2023 |  Complex - Maastricht - NL
+|     |
+| 03.18.2023 |  Koko w/ Orpheu & Budino - London - UK
+|     |
+| 03.11.2023 |  Circolo Degli Illuminati - Rome - IT
+|     |
+| 03.10.2023 |  Manifest Closing Party x Sass - Vienna - AT
+|     |
 | 03.04.2023 |  Club Smederij - Tilburg - NL
 |     |
 | 01.01.2022 |  NYD x Thuishaven - Amsterdam - NL
@@ -167,19 +189,19 @@ draft: false
 | 03.06.2020 | Animals Dancing - Melbourne - AU                                                                                                                                                  |     |
 | 03.01.2020 | Brunch w/ Floating Points - Barcelona - ES                                                                                                                                                   |     |
 | 12.31.2019 | NYE - London - UK                                                                                                                                                   |     |
-| 12.20.2019 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
+| 12.20.2019 | De School w/ Antal b2b - Amsterdam - NL                                                                                                                                                   |     |
 | 12.18.2019 | Antisocial - Mumbai - IN                                                                                                                                                   |     |
-| 12.15.2019 | Magnetic Fields - Alsisar Mahal - IN                                                                                                                                                   |     |
-| 12.07.2019 | Contra - Seoul - KR                                                                                                                                                   |     |
-| 12.06.2019 | Rush Hour x Contact w/ Antal b2b - Tokyo - JP                                                                                                                                                   |     |
-| 11.30.2019 | Djoon x All Night Long - Paris - FR                                                                                                                                                   |     |
-| 11.29.2019 | Abandon Silence - Liverpool - UK                                                                                                                                                   |     |
+| 12.15.2019 | Magnetic Fields - Alsisar Mahal - IN                                                                                                                                                   |     |
+| 12.07.2019 | Contra - Seoul - KR                                                                                                                                                   |     |
+| 12.06.2019 | Rush Hour x Contact w/ Antal b2b - Tokyo - JP                                                                                                                                                   |     |
+| 11.30.2019 | Djoon x All Night Long - Paris - FR                                                                                                                                                   |     |
+| 11.29.2019 | Abandon Silence - Liverpool - UK                                                                                                                                                   |     |
 | 11.23.2019 | Basic Club - Naples - IT                                                                                                                                                   |     |
-| 11.22.2019 | Goa Club - Rome - IT                                                                                                                                                   |     |
-| 11.09.2019 | WHP - Manchester - UK                                                                                                                                                   |     |
-| 11.02.2019 | Dabadaba - San Sebastian - ES                                                                                                                                                   |     |
-| 11.01.2019 | Astin - Barcelona - ES                                                                                                                                                   |     |
-| 10.31.2019 | Perola Negra - Porto - PT                                                                                                                                                   |     |
+| 11.22.2019 | Goa Club - Rome - IT                                                                                                                                                   |     |
+| 11.09.2019 | WHP - Manchester - UK                                                                                                                                                   |     |
+| 11.02.2019 | Dabadaba - San Sebastian - ES                                                                                                                                                   |     |
+| 11.01.2019 | Astin - Barcelona - ES                                                                                                                                                   |     |
+| 10.31.2019 | Perola Negra - Porto - PT                                                                                                                                                   |     |
 | 10.20.2019 | Garage Noord w/ Orpheu The Wizard b2b - Amsterdam - NL                                                                                                                                                   |     |
 | 10.19.2019 | Shelter - Amsterdam - NL                                                                                                                                                   |     |
 | 10.18.2019 | Sub Club w/ Solar - Glasgow - UK                                                                                                                                                   |     |
