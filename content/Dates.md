@@ -8,6 +8,14 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | + booking + |  email: rieks@sonnet.agency
 |     |
+| 08.27.2023 |  Selectors - Tisno - CR
+|     |
+| 07.21.2023 |  Junction 2 w/ Daphni b2b - London - UK
+|     |
+| 06.10.2023 |  Ohm Festival - Delft - NL
+|     |
+| 06.02.2023 |  Kala Festival w/ Antal b2b - Dhermi - AL
+|     |
 | 05.28.2023 |  Gala Festival - London - UK
 |     |
 | 05.01.2023 |  Rainbow Disco Club w/ Antal b2b - Higashi-Izu - JP
