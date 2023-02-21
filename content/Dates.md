@@ -34,6 +34,8 @@ draft: false
 |     |
 | 03.18.2023 |  Koko w/ Orpheu & Budino - London - UK
 |     |
+| 03.17.2023 |  The Pink Room x Yes - Manchester - UK
+|     |
 | 03.11.2023 |  Circolo Degli Illuminati - Rome - IT
 |     |
 | 03.10.2023 |  Manifest Closing Party x Sass - Vienna - AT
