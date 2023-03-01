@@ -8,15 +8,27 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | booking > | email: rieks@sonnet.agency
 |     |
+| 09.02.2023 |  tba - tba - NL
+|     |
 | 08.27.2023 |  Selectors - Tisno - CR
 |     |
+| 08.11.2023 |  tba - tba - FI
+|     |
+| 08.04.2023 |  Lovefest - Vrnjacka Banja - RS
+|     |
+| 07.22.2023 |  Tradgarden - Stockholm - SE
+|     |
 | 07.21.2023 |  Junction 2 w/ Daphni b2b - London - UK
+|     |
+| 06.11.2023 |  Polifonic Milan - Segrate - IT
 |     |
 | 06.10.2023 |  Ohm Festival - Delft - NL
 |     |
 | 06.02.2023 |  Kala Festival w/ Antal b2b - Dhermi - AL
 |     |
 | 05.28.2023 |  Gala Festival - London - UK
+|     |
+| 05.05.2023 |  MixMag Korea 7th Anniversary - Seoul - SK
 |     |
 | 05.01.2023 |  Rainbow Disco Club w/ Antal b2b - Higashi-Izu - JP
 |     |
