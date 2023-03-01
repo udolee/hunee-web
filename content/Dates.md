@@ -20,6 +20,8 @@ draft: false
 |     |
 | 07.21.2023 |  Junction 2 w/ Daphni b2b - London - UK
 |     |
+| 07.20.2023 |  tba - tba - CR
+|     |
 | 07.08.2023 |  tba - tba - FR
 |     |
 | 06.11.2023 |  Polifonic Milan - Segrate - IT
