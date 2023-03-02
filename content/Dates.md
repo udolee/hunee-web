@@ -12,7 +12,7 @@ draft: false
 |     |
 | 08.27.2023 |  Selectors - Tisno - CR
 |     |
-| 08.11.2023 |  tba - tba - FI
+| 08.11.2023 |  Flow Festival - Helsinki - FI
 |     |
 | 08.04.2023 |  Lovefest - Vrnjacka Banja - RS
 |     |
@@ -20,13 +20,15 @@ draft: false
 |     |
 | 07.21.2023 |  Junction 2 w/ Daphni b2b - London - UK
 |     |
-| 07.20.2023 |  tba - tba - CR
+| 07.20.2023 |  tba - Tisno - CR
 |     |
-| 07.08.2023 |  tba - tba - FR
+| 07.08.2023 |  tba - Paris - FR
 |     |
 | 06.11.2023 |  Polifonic Milan - Segrate - IT
 |     |
 | 06.10.2023 |  Ohm Festival - Delft - NL
+|     |
+| 06.04.2023 |  MOGA Caparica - Costa da Caparica  - AL
 |     |
 | 06.02.2023 |  Kala Festival w/ Antal b2b - Dhermi - AL
 |     |
