@@ -36,6 +36,10 @@ draft: false
 |     |
 | 05.05.2023 |  MixMag Korea 7th Anniversary - Seoul - SK
 |     |
+| 05.21.2023 |  tba - Paris - FR
+|     |
+| 05.20.2023 |  tba - Berlin - DE
+|     |
 | 05.01.2023 |  Rainbow Disco Club w/ Antal b2b - Higashi-Izu - JP
 |     |
 | 04.15.2023 |  OHM - Berlin - DE
