@@ -12,6 +12,12 @@ draft: false
 |     |
 | 08.27.2023 |  Selectors - Tisno - CR
 |     |
+| 08.21.2023 |  Circoloco x DC10 - Ibiza - ES
+|     |
+| 08.13.2023 |  Otherlands Music & Arts Festival - Perth - UK
+|     |
+| 08.12.2023 |  We Out Here Festival - Dorset - UK
+|     |
 | 08.11.2023 |  Flow Festival - Helsinki - FI
 |     |
 | 08.04.2023 |  Lovefest - Vrnjacka Banja - RS
@@ -20,7 +26,7 @@ draft: false
 |     |
 | 07.21.2023 |  Junction 2 w/ Daphni b2b - London - UK
 |     |
-| 07.20.2023 |  tba - Tisno - CR
+| 07.20.2023 |  Suncebeat - Tisno - CR
 |     |
 | 07.08.2023 |  tba - Paris - FR
 |     |
@@ -34,17 +40,25 @@ draft: false
 |     |
 | 05.28.2023 |  Gala Festival - London - UK
 |     |
-| 05.05.2023 |  MixMag Korea 7th Anniversary - Seoul - SK
+| 05.27.2023 |  tba - Brussels - BE
+|     |
+| 05.27.2023 |  Draaimolen Island x Private Hearts - Loon op Zand - NL
+|     |
+| 05.26.2023 |  De School - Amsterdam - NL
 |     |
 | 05.21.2023 |  tba - Paris - FR
 |     |
 | 05.20.2023 |  tba - Berlin - DE
 |     |
+| 05.05.2023 |  MixMag Korea 7th Anniversary - Seoul - SK
+|     |
 | 05.01.2023 |  Rainbow Disco Club w/ Antal b2b - Higashi-Izu - JP
 |     |
-| 04.15.2023 |  OHM - Berlin - DE
+| 04.27.2023 |  tba - Amsterdam - NL
 |     |
-| 04.14.2023 |  Bird - Rotterdam - NL
+| 04.21.2023 |  Bird - Rotterdam - NL
+|     |
+| 04.15.2023 |  OHM - Berlin - DE
 |     |
 | 04.09.2023 |  DGTL x NDSM - Amsterdam - NL
 |     |
@@ -53,10 +67,6 @@ draft: false
 | 03.25.2023 |  Wibar - Leiden - NL
 |     |
 | 03.24.2023 |  Complex - Maastricht - NL
-|     |
-| 03.18.2023 |  Koko w/ Orpheu & Budino - London - UK
-|     |
-| 03.17.2023 |  The Pink Room x Yes - Manchester - UK
 |     |
 | 03.11.2023 |  Circolo Degli Illuminati - Rome - IT
 |     |
