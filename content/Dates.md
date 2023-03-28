@@ -28,7 +28,7 @@ draft: false
 |     |
 | 07.20.2023 |  Suncebeat - Tisno - CR
 |     |
-| 07.08.2023 |  tba - Paris - FR
+| 07.08.2023 |  Peacock Society - Paris - FR
 |     |
 | 06.11.2023 |  Polifonic Milan - Segrate - IT
 |     |
@@ -40,21 +40,21 @@ draft: false
 |     |
 | 05.28.2023 |  Gala Festival - London - UK
 |     |
-| 05.27.2023 |  tba - Brussels - BE
+| 05.27.2023 |  Core Festival - Brussels - BE
 |     |
 | 05.27.2023 |  Draaimolen Island x Private Hearts - Loon op Zand - NL
 |     |
 | 05.26.2023 |  De School - Amsterdam - NL
 |     |
-| 05.21.2023 |  tba - Paris - FR
+| 05.21.2023 |  25YRH x Cabaret Sauvage - Paris - FR
 |     |
-| 05.20.2023 |  tba - Berlin - DE
+| 05.20.2023 |  Polifonic x Else - Berlin - DE
 |     |
 | 05.05.2023 |  MixMag Korea 7th Anniversary - Seoul - SK
 |     |
 | 05.01.2023 |  Rainbow Disco Club w/ Antal b2b - Higashi-Izu - JP
 |     |
-| 04.27.2023 |  tba - Amsterdam - NL
+| 04.27.2023 |  Lofi - Amsterdam - NL
 |     |
 | 04.21.2023 |  Bird - Rotterdam - NL
 |     |
@@ -65,8 +65,6 @@ draft: false
 | 04.06.2023 |  Elysia w/ Antal b2b - Münchenstein - CH
 |     |
 | 03.25.2023 |  Wibar - Leiden - NL
-|     |
-| 03.24.2023 |  Complex - Maastricht - NL
 |     |
 | 03.11.2023 |  Circolo Degli Illuminati - Rome - IT
 |     |
