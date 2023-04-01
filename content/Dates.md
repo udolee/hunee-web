@@ -28,7 +28,11 @@ draft: false
 |     |
 | 07.20.2023 |  Suncebeat - Tisno - CR
 |     |
+| 07.09.2023 |  Wildeburg - Kraggenburg - NL
+|     |
 | 07.08.2023 |  Peacock Society - Paris - FR
+|     |
+| 06.17.2023 |  Off Sonar - Barcelona - ES
 |     |
 | 06.11.2023 |  Polifonic Milan - Segrate - IT
 |     |
