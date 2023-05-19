@@ -8,11 +8,15 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | booking > | email: rieks@sonnet.agency
 |     |
+| 09.09.2023 |  tba - tba - BE
+|     |
 | 09.02.2023 |  tba - tba - NL
 |     |
 | 08.27.2023 |  Selectors - Tisno - CR
 |     |
 | 08.21.2023 |  Circoloco x DC10 - Ibiza - ES
+|     |
+| 08.14.2023 |  Panorama Festival - Lecce - IT
 |     |
 | 08.13.2023 |  Otherlands Music & Arts Festival - Perth - UK
 |     |
@@ -28,9 +32,15 @@ draft: false
 |     |
 | 07.20.2023 |  Suncebeat - Tisno - CR
 |     |
+| 07.15.2023 |  tba - tba - tba
+|     |
 | 07.09.2023 |  Wildeburg - Kraggenburg - NL
 |     |
 | 07.08.2023 |  Peacock Society - Paris - FR
+|     |
+| 07.01.2023 |  Hangaren - Copenhagen - DK
+|     |
+| 06.30.2023 |  Pink Room x YES - Manchester - UK
 |     |
 | 06.17.2023 |  Off Sonar - Barcelona - ES
 |     |
