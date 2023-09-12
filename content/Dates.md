@@ -8,9 +8,17 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | booking > | email: rieks@sonnet.agency
 |     |
-| 09.09.2023 |  tba - tba - BE
+| 30.09.2023 |  Phonox x All Night Long - London - UK
 |     |
-| 09.02.2023 |  tba - tba - NL
+| 15.09.2023 |  Rollover x Apollo - Milano - IT
+|     |
+| 09.09.2023 |  Voodoo Village - Grimbergen - BE
+|     |
+| 09.03.2023 |  Else w/ Antal b2b - Berlin - DE
+|     |
+| 09.02.2023 |  Zeezout Festival - Amsterdam - NL
+|     |
+| 09.02.2023 |  Momo Fabrique - Rotterdam - NL
 |     |
 | 08.27.2023 |  Selectors - Tisno - CR
 |     |
