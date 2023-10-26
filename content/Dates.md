@@ -8,6 +8,34 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | booking > | email: rieks@sonnet.agency
 |     |
+| 12.23.2023 |  Koko w/ Antal b2b - London - UK
+|     |
+| 12.22.2023 |  tba - tba - NL
+|     |
+| 12.09.2023 |  Meraki - Liverpool - UK
+|     |
+| 12.08.2023 |  Refuge Worldwide x Panorama Bar - Berlin - DE
+|     |
+| 12.02.2023 |  Basic Club - Naples - IT
+|     |
+| 11.25.2023 |  La Cheetah - Glasgow - UK
+|     |
+| 11.24.2023 |  Polaris - Verbier - CH
+|     |
+| 11.12.2023 |  De School Weekender - Amsterdam - NL
+|     |
+| 11.11.2023 |  Modular x Maassilo - Rotterdam - NL
+|     |
+| 11.04.2023 |  Rush Hour 25 x WAS - Utrecht - NL
+|     |
+| 11.03.2023 |  Club Smederij - Tilburg - NL
+|     |
+| 10.21.2023 |  Sound It - Barcelona - ES
+|     |
+| 10.20.2023 |  Soma Weekender - Soma Bay - EG
+|     |
+| 10.06.2023 |  No Art x ADE - Amsterdam - NL
+|     |
 | 30.09.2023 |  Phonox x All Night Long - London - UK
 |     |
 | 15.09.2023 |  Rollover x Apollo - Milano - IT
