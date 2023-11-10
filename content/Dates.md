@@ -8,9 +8,11 @@ draft: false
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | booking > | email: rieks@sonnet.agency
 |     |
+| 12.31.2023 |  Secret Sounds NYE - Stockholm - SE
+|     |
 | 12.23.2023 |  Koko w/ Antal b2b - London - UK
 |     |
-| 12.22.2023 |  tba - tba - NL
+| 12.22.2023 |  Lofi w/ Antal b2b - Amsterdam - NL
 |     |
 | 12.09.2023 |  Meraki - Liverpool - UK
 |     |
@@ -18,7 +20,9 @@ draft: false
 |     |
 | 12.02.2023 |  Basic Club - Naples - IT
 |     |
-| 11.25.2023 |  La Cheetah - Glasgow - UK
+| 12.01.2023 |  Polifonic x East End Studios - Milan - IT
+|     |
+| 11.25.2023 |  La Cheetah x All Night Long - Glasgow - UK
 |     |
 | 11.24.2023 |  Polaris - Verbier - CH
 |     |
