@@ -6,7 +6,9 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| booking > | email: rieks@sonnet.agency
+| booking > | worldwide > fh@temporary-secretary.net
+|     |
+| booking > | italy > aa@3d-agency.it
 |     |
 | 12.31.2023 |  Secret Sounds NYE - Stockholm - SE
 |     |
