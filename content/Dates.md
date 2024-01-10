@@ -6,9 +6,9 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| booking -> | worldwide -> fh@temporary-secretary.net
+| booking > | worldwide: fh@temporary-secretary.net
 |     |
-| booking -> | italy -> aa@3d-agency.it
+| booking > | italy: aa@3d-agency.it
 |     |
 | 12.31.2023 |  Secret Sounds NYE - Stockholm - SE
 |     |
