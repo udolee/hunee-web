@@ -10,6 +10,40 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 06.29.2024 |  Velvet Festival - Punat - CR
+|     |
+| 05.26.2024 |  GALA Festival - London - UK
+|     |
+| 05.25.2024 |  Drop x La Terrazza - Barcelona - ES
+|     |
+| 05.19.2024 |  Lente Kabinet - Amsterdam - NL
+|     |
+| 05.11.2024 |  Naturel Beach w/ Antal - The Hagure - NL
+|     |
+| 05.01.2024 |  Iterium - Monopoli - IT
+|     |
+| 04.27.2024 |  Kingsday x Lofi - Amsterdam - NL
+|     |
+| 04.06.2024 |  Sun Snow Weekender - Sierra Nevada - ES
+|     |
+| 03.28.2024 |  Phonox Residency x All Night Long - London - UK
+|     |
+| 03.23.2024 |  Circolo Degli Illuminati - Rome - IT
+|     |
+| 03.22.2024 |  Phonox Residency w/ Orpheu, Castro & Nemo - London - UK
+|     |
+| 03.16.2024 |  Cafe Berlin - Madrid - ES
+|     |
+| 03.15.2024 |  Phonox Residency w/ Paquita Gordon - London - UK
+|     |
+| 03.08.2024 |  Phonox Residency w/ Stella Zekri - London - UK
+|     |
+| 03.01.2024 |  Phonox Residency x All Night Long - London - UK
+|     |
+| 02.24.2024 |  Free Your Funk x La Bellevilloise - Paris - FR
+|     |
+| 02.23.2024 |  Lux - Lisbon - PT
+|     |
 | 12.31.2023 |  Secret Sounds NYE - Stockholm - SE
 |     |
 | 12.23.2023 |  Koko w/ Antal b2b - London - UK
