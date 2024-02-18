@@ -10,6 +10,12 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 06.29.2024 |  Velvet Festival - Punat - CR
+|     |
+| 05.26.2024 |  GALA Festival - London - UK
+|     |
+| 05.19.2024 |  Lente Kabinet - Amsterdam - NL
+|     |
 | 04.27.2024 |  Kingsday x Lofi - Amsterdam - NL
 |     |
 | 04.06.2024 |  Sun Snow Weekender - Sierra Nevada - ES
