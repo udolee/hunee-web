@@ -14,7 +14,13 @@ draft: false
 |     |
 | 05.26.2024 |  GALA Festival - London - UK
 |     |
+| 05.25.2024 |  Drop x La Terrazza - Barcelona - ES
+|     |
 | 05.19.2024 |  Lente Kabinet - Amsterdam - NL
+|     |
+| 05.11.2024 |  Naturel Beach w/ Antal - The Hagure - NL
+|     |
+| 05.01.2024 |  Iterium - Monopoli - IT
 |     |
 | 04.27.2024 |  Kingsday x Lofi - Amsterdam - NL
 |     |
