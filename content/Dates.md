@@ -12,11 +12,19 @@ draft: false
 |     |
 | 06.29.2024 |  Velvet Festival - Punat - CR
 |     |
+| 06.09.2024 |  Vum Open Air - Helsinki - FI
+|     |
+| 06.08.2024 |  Drift Festival - Nijmegen - NL
+|     |
+| 06.07.2024 |  Sub Club - Glasgow - UK
+|     |
 | 05.26.2024 |  GALA Festival - London - UK
 |     |
 | 05.25.2024 |  Drop x La Terrazza - Barcelona - ES
 |     |
 | 05.19.2024 |  Lente Kabinet - Amsterdam - NL
+|     |
+| 05.18.2024 |  Sandbox Festival - Hurghada - EG
 |     |
 | 05.11.2024 |  Naturel Beach w/ Antal - The Hagure - NL
 |     |
