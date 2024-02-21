@@ -30,13 +30,13 @@ draft: false
 |     |
 | 05.01.2024 |  Iterium - Monopoli - IT
 |     |
-| 04.27.2024 |  Kingsday x Lofi - Amsterdam - NL
+| 04.27.2024 |  Lofi - Amsterdam - NL
 |     |
 | 04.06.2024 |  Sun Snow Weekender - Sierra Nevada - ES
 |     |
 | 03.29.2024 |  Phonox Residency x All Night Long - London - UK
 |     |
-| 03.23.2024 |  Circolo Degli Illuminati - Rome - IT
+| 03.23.2024 |  Minu x Circolo Degli Illuminati - Rome - IT
 |     |
 | 03.22.2024 |  Phonox Residency w/ Orpheu, Castro & Nemo - London - UK
 |     |
