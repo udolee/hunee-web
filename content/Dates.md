@@ -34,7 +34,7 @@ draft: false
 |     |
 | 04.06.2024 |  Sun Snow Weekender - Sierra Nevada - ES
 |     |
-| 03.28.2024 |  Phonox Residency x All Night Long - London - UK
+| 03.29.2024 |  Phonox Residency x All Night Long - London - UK
 |     |
 | 03.23.2024 |  Circolo Degli Illuminati - Rome - IT
 |     |
