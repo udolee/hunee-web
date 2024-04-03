@@ -32,7 +32,11 @@ draft: false
 |     |
 | 04.27.2024 |  Lofi - Amsterdam - NL
 |     |
+| 04.21.2024 |  Wonderland Clichy - Paris - FR
+|     |
 | 04.06.2024 |  Sun Snow Weekender - Sierra Nevada - ES
+|     |
+| 04.03.2024 |  Are Sessions x Farinet - Verbier - CH
 |     |
 | 03.29.2024 |  Phonox Residency x All Night Long - London - UK
 |     |
