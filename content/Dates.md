@@ -6,11 +6,13 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| booking > | worldwide: fh@temporary-secretary.net
+| booking > | worldwide: fh@t-s-agency.com
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
 | 06.29.2024 |  Velvet Festival - Punat - CR
+|     |
+| 06.14.2024 |  Virage - Paris - FR
 |     |
 | 06.09.2024 |  Vum Open Air - Helsinki - FI
 |     |
@@ -27,6 +29,8 @@ draft: false
 | 05.18.2024 |  Sandbox Festival - Hurghada - EG
 |     |
 | 05.11.2024 |  Naturel Beach w/ Antal - The Hagure - NL
+|     |
+| 05.09.2024 |  Heideglühen - Berlin - DE
 |     |
 | 05.01.2024 |  Iterium - Monopoli - IT
 |     |
