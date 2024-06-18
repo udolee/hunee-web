@@ -10,6 +10,60 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 10.26.2024 | Hunchin All Night x Patterns - Brighton - UK
+|     |
+| 10.25.2024 | Hangaren - Copenhagen - DK
+|     |
+| 10.06.2024 | Life & Death x Moga Festival - Essaouira - MA
+|     |
+| 10.05.2024 | Hunchin All Night x C12 - Brussels - BE
+|     |
+| 09.28.2024 | Hunchin All Night x Rex - Paris - FR
+|     |
+| 09.27.2024 |  Hunchin All Night x Macadam - Nantes - FR
+|     |
+| 09.14.2024 |  Maiden Voyage w/ Palms Trax b2b - London - UK
+|     |
+| 09.13.2024 |  Garage Noord - Amsterdam - NL
+|     |
+| 09.07.2024 |  Draimoolen w/ Matias el Mansouri b2b - Tilburg - NL
+|     |
+| 08.24.2024 |  Colorado Charlie - The Hague - NL
+|     |
+| 08.23.2024 |  Longevity Festival - Strasbourg - FR
+|     |
+| 08.18.2024 |  The Senses Club - Fondi - IT
+|     |
+| 08.16.2024 |  Hangar on the Beach - Knokke-Heist - BE
+|     |
+| 08.11.2024 |  Houghton - Houghton - UK
+|     |
+| 08.10.2024 |  San Lorenzo in da Wood - Rocca di Mezzo - IT
+|     |
+| 08.09.2024 |  Lovefest - Vrnjačka Banja - RS
+|     |
+| 07.28.2024 |  10 Years of Dekmantel x Het Hem - Zaandam - NL
+|     |
+| 07.27.2024 |  Vayus Festival - Palanga - LT
+|     |
+| 07.22.2024 |  Circoloco x DC10 - Ibiza - ES
+|     |
+| 07.21.2024 |  La Domenica Elettronica - Segrate - IT
+|     |
+| 07.20.2024 |  Dantz Festival - Donostia - ES
+|     |
+| 07.19.2024 |  Nation of Gondwana - Grünefeld - DE
+|     |
+| 07.14.2024 |  Wildeburg - Kraggenburg - NL
+|     |
+| 07.13.2024 |  Annabel - Rotterdam - NL
+|     |
+| 07.12.2024 |  Brockwood Festival - Alresford - UK
+|     |
+| 07.11.2024 |  Moni - Mykonos - GR
+|     |
+| 07.06.2024 |  Sound Metaphors x Prince Charles - Berlin - DE
+|     |
 | 06.29.2024 |  Velvet Festival - Punat - CR
 |     |
 | 06.14.2024 |  Virage - Paris - FR
