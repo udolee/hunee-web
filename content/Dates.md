@@ -10,6 +10,24 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 10.26.2024 | Hunchin All Night x Patterns - Brighton - UK
+|     |
+| 10.25.2024 | Hangaren - Copenhagen - DK
+|     |
+| 10.06.2024 | Life & Death x Moga Festival - Essaouira - MA
+|     |
+| 10.05.2024 | Hunchin All Night x C12 - Brussels - BE
+|     |
+| 09.28.2024 | Hunchin All Night x Rex - Paris - FR
+|     |
+| 09.27.2024 |  Hunchin All Night x Macadam - Nantes - FR
+|     |
+| 09.14.2024 |  Maiden Voyage w/ Palms Trax b2b - London - UK
+|     |
+| 09.13.2024 |  Garage Noord - Amsterdam - NL
+|     |
+| 09.07.2024 |  Draimoolen w/ Matias el Mansouri b2b - Tilburg - NL
+|     |
 | 08.24.2024 |  Colorado Charlie - The Hague - NL
 |     |
 | 08.23.2024 |  Longevity Festival - Strasbourg - FR
