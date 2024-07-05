@@ -14,6 +14,8 @@ draft: false
 |     |
 | 10.25.2024 | Hangaren - Copenhagen - DK
 |     |
+| 10.19.2024 | Basic Club - Naples - IT
+|     |
 | 10.06.2024 | Life & Death x Moga Festival - Essaouira - MA
 |     |
 | 10.05.2024 | Hunchin All Night x C12 - Brussels - BE
