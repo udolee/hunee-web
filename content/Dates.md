@@ -10,6 +10,18 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 11.30.2024 | Hunchin All Night x La Cheetah - Glasgow - UK
+|     |
+| 11.29.2024 | WHP - Manchester - UK
+|     |
+| 11.24.2024 | Hunchin All Afternoon x Eden - Athens - GR
+|     |
+| 11.09.2024 | Life Classics x OHM - Berlin - DE
+|     |
+| 11.02.2024 | Boogie Box Festival - Abu Dhabi - AE
+|     |
+| 11.01.2024 | Selectist x Frankhan - Istanbul - TR
+|     |
 | 10.25.2024 | Hangaren - Copenhagen - DK
 |     |
 | 10.19.2024 | Basic Club - Naples - IT
