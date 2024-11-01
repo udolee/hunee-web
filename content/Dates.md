@@ -10,6 +10,14 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 12.21.2024 | Hunchin All Night x Nitsa - Barcelona - ES
+|     |
+| 12.20.2024 | All Night b2b w/ Antal - Amsterdam - NL
+|     |
+| 12.07.2024 | Take It Easy x Tunnel - Milan - IT
+|     |
+| 12.06.2024 | Hunchin All Night x EartH - London - UK
+|     |
 | 11.30.2024 | Hunchin All Night x La Cheetah - Glasgow - UK
 |     |
 | 11.29.2024 | WHP - Manchester - UK
