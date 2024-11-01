@@ -10,7 +10,25 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 10.26.2024 | Hunchin All Night x Patterns - Brighton - UK
+| 12.21.2024 | Hunchin All Night x Nitsa - Barcelona - ES
+|     |
+| 12.20.2024 | All Night b2b w/ Antal - Amsterdam - NL
+|     |
+| 12.07.2024 | Take It Easy x Tunnel - Milan - IT
+|     |
+| 12.06.2024 | Hunchin All Night x EartH - London - UK
+|     |
+| 11.30.2024 | Hunchin All Night x La Cheetah - Glasgow - UK
+|     |
+| 11.29.2024 | WHP - Manchester - UK
+|     |
+| 11.24.2024 | Hunchin All Afternoon x Eden - Athens - GR
+|     |
+| 11.09.2024 | Life Classics x OHM - Berlin - DE
+|     |
+| 11.02.2024 | Boogie Box Festival - Abu Dhabi - AE
+|     |
+| 11.01.2024 | Selectist x Frankhan - Istanbul - TR
 |     |
 | 10.25.2024 | Hangaren - Copenhagen - DK
 |     |
