@@ -10,8 +10,6 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 10.26.2024 | Hunchin All Night x Patterns - Brighton - UK
-|     |
 | 10.25.2024 | Hangaren - Copenhagen - DK
 |     |
 | 10.19.2024 | Basic Club - Naples - IT
