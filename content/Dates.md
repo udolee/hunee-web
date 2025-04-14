@@ -10,19 +10,19 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 31.05.2025 | RDC x Sound Metaphors - Berlin - DE
+| 05.31.2025 | RDC x Sound Metaphors - Berlin - DE
 |     |
-| 25.05.2025 | GALA Festival - London - UK
+| 05.25.2025 | GALA Festival - London - UK
 |     |
-| 24.05.2025 | Free Your Funk - Paris - FR
+| 05.24.2025 | Free Your Funk - Paris - FR
 |     |
-| 23.05.2025 | RDC Amsterdam x Lofi - Amsterdam - NL
+| 05.23.2025 | RDC Amsterdam x Lofi - Amsterdam - NL
 |     |
-| 10.05.2025 | Soulful Sessions Festival - Antwerp - BE
+| 05.10.2025 | Soulful Sessions Festival - Antwerp - BE
 |     |
-| 03.05.2025 | Lux Fragil - Lisbon - PT
+| 05.03.2025 | Lux Fragil - Lisbon - PT
 |     |
-| 02.05.2025 | Plano B - Porto - PT
+| 05.02.2025 | Plano B - Porto - PT
 |     |
 | 12.21.2024 | Hunchin All Night x Nitsa - Barcelona - ES
 |     |
