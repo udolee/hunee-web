@@ -60,7 +60,7 @@ draft: false
 |     |
 | 05.24.2025 | Hunchin All Night x Free Your Funk - Paris - FR
 |     |
-| 05.23.2025 | RDC Amsterdam x Lofi - Amsterdam - NL
+| 05.23.2025 | RDC x Lofi - Amsterdam - NL
 |     |
 | 05.10.2025 | Soulful Sessions Festival - Antwerp - BE
 |     |
