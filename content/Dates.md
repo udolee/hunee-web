@@ -10,11 +10,55 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 08.30.2025 | Minuit Festival - Geneva - CH
+|     |
+| 08.24.2025 | Lost Village - Lincolnshire - UK
+|     |
+| 08.21.2025 | Dekmantel Selectors - Tisno - CR
+|     |
+| 08.16.2025 | We Out Here Festival w/ Antal & Luke Una - Wimborne - UK
+|     |
+| 08.11.2025 | Sziget Festival - Budapest - HU
+|     |
+| 08.10.2025 | Playground x NAR - Utrecht - NL
+|     |
+| 08.08.2025 | Tradgarden w/ Mattias el Mansouri b2b - Stockholm - SE
+|     |
+| 08.02.2025 | Dekmantel Festival w/ Paquita Gordon b2b - Amsterdam - NL
+|     |
+| 08.01.2025 | Villa Tasca - Palermo - IT
+|     |
+| 07.19.2025 | Soundit Festival w/ Paquita Gordon b2b - El Prat de Llobregat - ES
+|     |
+| 07.18.2025 | FIB Benicassim  - Benicassim - ES
+|     |
+| 07.17.2025 | Gurtenfestval - Bern - CH
+|     |
+| 07.13.2025 | Love International - Tisno - CR
+|     |
+| 07.05.2025 | Sunset by The Basement - Valencia - ES
+|     |
+| 06.29.2025 | Glastonbury - Glastonbury - UK
+|     |
+| 06.28.2025 | Lago Lago Festival - Braamt - NL
+|     |
+| 06.26.2025 | Velvet Festival - Punat - CR
+|     |
+| 06.22.2025 | Wildwood Festival - Cambridge - UK
+|     |
+| 06.15.2025 | Gottwood - Istanbul - TR
+|     |
+| 06.14.2025 | Beyond The Pale Festival - Wicklow - UK
+|     |
+| 06.07.2025 | Frankhan - Istanbul - TR
+|     |
+| 06.06.2025 | Garden Festival - Attard - MT
+|     |
 | 05.31.2025 | RDC x Sound Metaphors - Berlin - DE
 |     |
 | 05.25.2025 | GALA Festival - London - UK
 |     |
-| 05.24.2025 | Free Your Funk - Paris - FR
+| 05.24.2025 | Hunchin All Night x Free Your Funk - Paris - FR
 |     |
 | 05.23.2025 | RDC Amsterdam x Lofi - Amsterdam - NL
 |     |
