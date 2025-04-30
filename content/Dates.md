@@ -58,7 +58,7 @@ draft: false
 |     |
 | 05.25.2025 | GALA Festival - London - UK
 |     |
-| 05.24.2025 | Free Your Funk - Paris - FR
+| 05.24.2025 | Hunchin All Night x Free Your Funk - Paris - FR
 |     |
 | 05.23.2025 | RDC Amsterdam x Lofi - Amsterdam - NL
 |     |
