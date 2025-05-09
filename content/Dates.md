@@ -10,6 +10,8 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 08.31.2025 | EDEN x ACE Hotel - Athens - GR
+|     |
 | 08.30.2025 | Minuit Festival - Geneva - CH
 |     |
 | 08.24.2025 | Lost Village - Lincolnshire - UK
@@ -44,7 +46,7 @@ draft: false
 |     |
 | 06.26.2025 | Velvet Festival - Punat - CR
 |     |
-| 06.22.2025 | Wildwood Festival - Cambridge - UK
+| 06.22.2025 | Wildwood Festival w/ Luke UNA - Cambridge - UK
 |     |
 | 06.15.2025 | Gottwood - Istanbul - TR
 |     |
@@ -60,7 +62,7 @@ draft: false
 |     |
 | 05.24.2025 | Hunchin All Night x Free Your Funk - Paris - FR
 |     |
-| 05.23.2025 | RDC Amsterdam x Lofi - Amsterdam - NL
+| 05.23.2025 | RDC x Lofi - Amsterdam - NL
 |     |
 | 05.10.2025 | Soulful Sessions Festival - Antwerp - BE
 |     |
