@@ -48,7 +48,7 @@ draft: false
 |     |
 | 06.22.2025 | Wildwood Festival w/ Luke UNA - Cambridge - UK
 |     |
-| 06.15.2025 | Gottwood - Istanbul - TR
+| 06.15.2025 | Gottwood - Holyhead - UK
 |     |
 | 06.14.2025 | Beyond The Pale Festival - Wicklow - UK
 |     |
