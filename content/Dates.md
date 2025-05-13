@@ -28,7 +28,7 @@ draft: false
 |     |
 | 08.02.2025 | Dekmantel Festival w/ Paquita Gordon b2b - Amsterdam - NL
 |     |
-| 08.01.2025 | Villa Tasca - Palermo - IT
+| 08.01.2025 | Nomad Music Festival - Palermo - IT
 |     |
 | 07.19.2025 | Soundit Festival w/ Paquita Gordon b2b - El Prat de Llobregat - ES
 |     |
