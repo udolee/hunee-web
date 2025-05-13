@@ -36,7 +36,7 @@ draft: false
 |     |
 | 07.17.2025 | Gurtenfestval - Bern - CH
 |     |
-| 07.13.2025 | Love International - Tisno - CR
+| 07.13.2025 | Love International /w Luke UNA - Tisno - CR
 |     |
 | 07.05.2025 | Sunset by The Basement - Valencia - ES
 |     |
@@ -58,7 +58,7 @@ draft: false
 |     |
 | 05.31.2025 | RDC x Sound Metaphors - Berlin - DE
 |     |
-| 05.25.2025 | GALA Festival - London - UK
+| 05.25.2025 | GALA Festival w/ Antal b2b- London - UK
 |     |
 | 05.24.2025 | Hunchin All Night x Free Your Funk - Paris - FR
 |     |
