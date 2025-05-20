@@ -14,13 +14,9 @@ draft: false
 |     |
 | 08.30.2025 | Minuit Festival - Geneva - CH
 |     |
-| 08.24.2025 | Lost Village - Lincolnshire - UK
-|     |
 | 08.21.2025 | Dekmantel Selectors - Tisno - CR
 |     |
 | 08.16.2025 | We Out Here Festival w/ Antal & Luke Una - Wimborne - UK
-|     |
-| 08.11.2025 | Sziget Festival - Budapest - HU
 |     |
 | 08.10.2025 | Playground x NAR - Utrecht - NL
 |     |
