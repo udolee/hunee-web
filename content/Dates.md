@@ -10,6 +10,38 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 12.31.2025 | NYE tba - tba - tba
+|     |
+| 12.20.2025 | Hunchin All Night x Nitsa - Barcelona - ES
+|     |
+| 12.13.2025 | All Nighter b2b w/ Antal x Lofi - Amsterdam - NL
+|     |
+| 12.13.2025 | Basic Club w/ Gigi Testa - Naples - IT
+|     |
+| 12.12.2025 | Robert Johnson w/ Sound Metaphors - Offenbach - DE
+|     |
+| 11.22.2025 | Bar Arca w/ Eternal Love - Milano - IT
+|     |
+| 11.21.2025 | Hunchin All Night x La Cheetah - Glasgow - UK
+|     |
+| 11.08.2025 | Hunchin All Night x Listen x La Cabane - Brussels - BE
+|     |
+| 11.07.2025 | Karmakoma - Belgrade - RS
+|     |
+| 10.25.2025 | RH x ADE x Lofi - Amsterdam - NL
+|     |
+| 10.24.2025 | WHP - Manchester - UK
+|     |
+| 10.18.2025 | Circolo Degli Illuminati - Rome - IT
+|     |
+| 10.06.2025 | Circoloco x DC10 - Ibiza - ES
+|     |
+| 09.27.2025 | Hunchin til Dusk x The Cause - London - UK
+|     |
+| 09.20.2025 | White Hotel w/ Budino - Manchester - UK
+|     |
+| 09.19.2025 | Hunchin All Night x Fideity - Dublin - IE
+|     |
 | 08.31.2025 | EDEN x ACE Hotel - Athens - GR
 |     |
 | 08.30.2025 | Minuit Festival - Geneva - CH
@@ -27,8 +59,6 @@ draft: false
 | 08.01.2025 | Nomad Music Festival - Palermo - IT
 |     |
 | 07.19.2025 | Soundit Festival w/ Paquita Gordon b2b - El Prat de Llobregat - ES
-|     |
-| 07.18.2025 | FIB Benicassim  - Benicassim - ES
 |     |
 | 07.17.2025 | Gurtenfestval - Bern - CH
 |     |
