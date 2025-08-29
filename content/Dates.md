@@ -54,7 +54,7 @@ draft: false
 |     |
 | 08.08.2025 | Tradgarden w/ Mattias el Mansouri b2b - Stockholm - SE
 |     |
-| 08.02.2025 | Dekmantel Festival w/ Paquita Gordon b2b - Amsterdam - NL
+| 08.02.2025 | Dekmantel Festival - Amsterdam - NL
 |     |
 | 08.01.2025 | Nomad Music Festival - Palermo - IT
 |     |
