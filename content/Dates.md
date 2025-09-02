@@ -20,6 +20,10 @@ draft: false
 |     |
 | 12.12.2025 | Robert Johnson w/ Sound Metaphors - Offenbach - DE
 |     |
+| 11.29.2025 | Wibar w/ Sound Metaphors - Leiden - IT
+|     |
+| 11.28.2025 | 013 Poppodium w/ Sound Metaphors - Tilburg - NL
+|     |
 | 11.22.2025 | Bar Arca w/ Eternal Love - Milano - IT
 |     |
 | 11.21.2025 | Hunchin All Night x La Cheetah - Glasgow - UK
