@@ -14,13 +14,13 @@ draft: false
 |     |
 | 12.20.2025 | Hunchin All Night x Nitsa - Barcelona - ES
 |     |
-| 12.13.2025 | All Nighter b2b w/ Antal x Lofi - Amsterdam - NL
+| 12.19.2025 | All Nighter b2b w/ Antal x Lofi - Amsterdam - NL
 |     |
 | 12.13.2025 | Basic Club w/ Gigi Testa - Naples - IT
 |     |
 | 12.12.2025 | Robert Johnson w/ Sound Metaphors - Offenbach - DE
 |     |
-| 11.29.2025 | Wibar w/ Sound Metaphors - Leiden - IT
+| 11.29.2025 | Wibar w/ Sound Metaphors - Leiden - NL
 |     |
 | 11.28.2025 | 013 Poppodium w/ Sound Metaphors - Tilburg - NL
 |     |
