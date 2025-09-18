@@ -40,7 +40,7 @@ draft: false
 |     |
 | 10.06.2025 | Circoloco x DC10 - Ibiza - ES
 |     |
-| 09.27.2025 | Hunchin til Dusk x The Cause - London - UK
+| 09.27.2025 | Hunchin til Dusk x The Cause w/ Moe & Yu Su - London - UK
 |     |
 | 09.20.2025 | White Hotel w/ Budino - Manchester - UK
 |     |
