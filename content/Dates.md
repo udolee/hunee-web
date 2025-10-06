@@ -10,7 +10,7 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 12.31.2025 | NYE in London - London - UK
+| 12.31.2025 | NYE x London - London - UK
 |     |
 | 12.20.2025 | Hunchin All Night x Nitsa - Barcelona - ES
 |     |
@@ -27,6 +27,8 @@ draft: false
 | 11.22.2025 | Bar Arca w/ Eternal Love - Milano - IT
 |     |
 | 11.21.2025 | Hunchin All Night x La Cheetah - Glasgow - UK
+|     |
+| 11.08.2025 | Listen! pres. HUNEE all night long x La Cabane - Brussels - BE
 |     |
 | 11.01.2025 | Collective Minds  x EmSphere - Bangkok - TH
 |     |
