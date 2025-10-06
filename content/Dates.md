@@ -10,7 +10,7 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 12.31.2025 | NYE tba - tba - tba
+| 12.31.2025 | NYE x London - London - UK
 |     |
 | 12.20.2025 | Hunchin All Night x Nitsa - Barcelona - ES
 |     |
@@ -28,9 +28,11 @@ draft: false
 |     |
 | 11.21.2025 | Hunchin All Night x La Cheetah - Glasgow - UK
 |     |
-| 11.08.2025 | Hunchin All Night x Listen x La Cabane - Brussels - BE
+| 11.08.2025 | Listen! pres. HUNEE all night long x La Cabane - Brussels - BE
 |     |
-| 11.07.2025 | Karmakoma - Belgrade - RS
+| 11.01.2025 | Collective Minds  x EmSphere - Bangkok - TH
+|     |
+| 10.31.2025 | Collective Minds x Pasir Panjang Power Station - Singapore - SG
 |     |
 | 10.25.2025 | RH x ADE x Lofi - Amsterdam - NL
 |     |
