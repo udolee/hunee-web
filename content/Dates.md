@@ -10,7 +10,7 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 12.31.2025 | NYE x London - London - UK
+| 12.31.2025 | NYE x Village Underground - London - UK
 |     |
 | 12.20.2025 | Hunchin All Night x Nitsa - Barcelona - ES
 |     |
