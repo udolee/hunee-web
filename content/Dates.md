@@ -12,13 +12,15 @@ draft: false
 |     |
 | 12.31.2025 | NYE x Village Underground - London - UK
 |     |
-| 12.20.2025 | Hunchin All Night x Nitsa - Barcelona - ES
+| 12.20.2025 | Hunchin All Night x Astin - Barcelona - ES
 |     |
 | 12.19.2025 | All Nighter b2b w/ Antal x Lofi - Amsterdam - NL
 |     |
 | 12.13.2025 | Basic Club w/ Gigi Testa - Naples - IT
 |     |
 | 12.12.2025 | Robert Johnson w/ Sound Metaphors - Offenbach - DE
+|     |
+| 12.12.2025 | Heideglühen - Berlin - DE
 |     |
 | 11.29.2025 | Wibar w/ Sound Metaphors - Leiden - NL
 |     |
