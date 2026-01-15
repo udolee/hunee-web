@@ -6,9 +6,13 @@ draft: false
 ---
 |            |                                                                                                                                                                                                      |     |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| newsletter. | https://lifetones.substack.com
+|     |
 | booking > | worldwide: fh@t-s-agency.com
 |     |
 | booking > | italy: aa@3d-agency.it
+|     |
+| 01.30.2026 | Hunchin All Night x Free Your Funk - Paris - FR
 |     |
 | 12.31.2025 | NYE x Village Underground - London - UK
 |     |
