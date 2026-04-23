@@ -14,11 +14,11 @@ draft: false
 |     |
 | 08.29.2026 | NAR: Het Festival - Utrecht - NL
 |     |
-| 08.28.2026 | Kalorama - Lisbon - PT
+| 08.28.2026 | Kalorama Festival - Lisbon - PT
 |     |
-| 08.23.2026 | Panorama Bar w/ Mattias El Mansouri b2b - Berlin - DE
+| 08.23.2026 | Panorama Bar x Garden w/ Mattias El Mansouri b2b - Berlin - DE
 |     |
-| 08.22.2026 | Essaim w/ Mattias El Mansouri b2b - Paris - FR
+| 08.22.2026 | Essaim x All Night w/ Mattias El Mansouri b2b - Paris - FR
 |     |
 | 08.20.2026 | Selectors w/ Optimo b2b - Tisno - HR
 |     |
@@ -40,7 +40,7 @@ draft: false
 |     |
 | 06.06.2026 | Cafe Berlin - Madrid - ES
 |     |
-| 06.05.2026 | KALA - Dhermi - AL
+| 06.05.2026 | KALA Festival - Dhermi - AL
 |     |
 | 05.24.2026 | GALA w/ Antal & Palms Trax b2b2b - London - UK
 |     |
@@ -62,9 +62,9 @@ draft: false
 |     |
 | 04.04.2026 | RDC Pre-Party x Womb - Tokyo - JP
 |     |
-| 03.22.2026 | Giant Steps - London - UK
+| 03.22.2026 | Giant Steps x All Day - London - UK
 |     |
-| 03.21.2026 | OM - London - UK
+| 03.21.2026 | OM x All Night - London - UK
 |     |
 | 03.20.2026 | RH x Corsica x b2b w/ Antal - London - UK
 |     |
