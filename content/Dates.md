@@ -12,6 +12,64 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 08.29.2026 | NAR: Het Festival - Utrecht - NL
+|     |
+| 08.28.2026 | Kalorama - Lisbon - PT
+|     |
+| 08.23.2026 | Panorama Bar w/ Mattias El Mansouri b2b - Berlin - DE
+|     |
+| 08.22.2026 | Essaim w/ Mattias El Mansouri b2b - Paris - FR
+|     |
+| 08.20.2026 | Selectors w/ Optimo b2b - Tisno - HR
+|     |
+| 08.15.2026 | tba - tba - UK
+|     |
+| 08.08.2026 | Jackies - Barcelona - ES
+|     |
+| 07.18.2026 | Boomtown Festival - Gent - BE
+|     |
+| 07.12.2026 | Nomad Music Festival - Palermo - IT
+|     |
+| 07.11.2026 | Hito w/ Antal b2b - The Hague - NL
+|     |
+| 07.05.2026 | Down The Rabbit Hole w/ Gerd Janson b2b - Ewijk - NL
+|     |
+| 06.20.2026 | Wildwood Festival w/ Optimo b2b - Cambridge - UK
+|     |
+| 06.15.2026 | Circoloco x DC10 - Ibiza - ES
+|     |
+| 06.06.2026 | Cafe Berlin - Madrid - ES
+|     |
+| 06.05.2026 | KALA - Dhermi - AL
+|     |
+| 05.24.2026 | GALA w/ Antal & Palms Trax b2b2b - London - UK
+|     |
+| 05.23.2026 | Jazz Middelheim - Antwerpen - BE
+|     |
+| 05.23.2026 | Lentekabinet - Oostzaan - NL
+|     |
+| 05.18.2026 | Silencio x Cannes Film Festival w/ Antal b2b - Cannes - FR
+|     |
+| 05.09.2026 | Square One - Manchester - UK
+|     |
+| 04.27.2026 | Kingsday x Lofi - Amsterdam - NL
+|     |
+| 04.19.2026 | Rainbow Disco Club w/ Antal b2b - Higashi-izu - JP
+|     |
+| 04.17.2026 | Dragon-I - Hongkong - HK
+|     |
+| 04.10.2026 | Modeci - Seoul - SK
+|     |
+| 04.04.2026 | RDC Pre-Party x Womb - Tokyo - JP
+|     |
+| 03.22.2026 | Giant Steps - London - UK
+|     |
+| 03.21.2026 | OM - London - UK
+|     |
+| 03.20.2026 | RH x Corsica x b2b w/ Antal - London - UK
+|     |
+| 03.08.2026 | Gloria x Macadam x 6hr Set - Nantes - FR
+|     |
 | 02.20.2026 | Karmakoma x 5hr Set - Belgrade - RS
 |     |
 | 02.07.2026 | Life Classics x OHM - Berlin - DE
