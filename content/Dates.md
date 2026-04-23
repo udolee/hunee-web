@@ -12,7 +12,7 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 08.29.2026 | NAR: Het Festival - Utrecht - NL
+| 08.29.2026 | NAR x Het Festival - Utrecht - NL
 |     |
 | 08.28.2026 | Kalorama Festival - Lisbon - PT
 |     |
