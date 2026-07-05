@@ -26,7 +26,7 @@ draft: false
 |     |
 | 08.20.2026 | Selectors w/ Optimo b2b - Tisno - HR
 |     |
-| 08.15.2026 | tba - London - UK
+| 08.15.2026 | {PAIRED} - London - UK
 |     |
 | 08.08.2026 | Jackies - Barcelona - ES
 |     |
