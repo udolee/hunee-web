@@ -14,7 +14,7 @@ draft: false
 |     |
 | 09.06.2026 | tba - tba - ES
 |     |
-| 09.05.2026 | Pikes Presents x 528 Ibiza - Ibiza - ES
+| 09.05.2026 | Pikes Presents x 528 Ibiza a/ Erol Alkan & Luke Una - Ibiza - ES
 |     |
 | 08.29.2026 | NAR x Het Festival - Utrecht - NL
 |     |
