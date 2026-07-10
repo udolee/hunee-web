@@ -30,7 +30,7 @@ draft: false
 |     |
 | 08.08.2026 | Jackies - Barcelona - ES
 |     |
-| 07.19.2026 | tba - Valencia - ES
+| 07.19.2026 | Marina Valencia - Valencia - ES
 |     |
 | 07.18.2026 | Boomtown Festival - Gent - BE
 |     |
