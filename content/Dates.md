@@ -12,6 +12,12 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
+| 10.24.2026 | ADE 2026 - Amsterdam - NL
+|     |
+| 10.16.2026 | Eolica Festival - Granadilla de Abona - ES
+|     |
+| 09.25.2026 | Hunchin All Night x Garage Noord - Amsterdam - NL
+|     |
 | 09.06.2026 | tba - tba - ES
 |     |
 | 09.05.2026 | Pikes Presents x 528 Ibiza a/ Erol Alkan & Luke Una - Ibiza - ES
