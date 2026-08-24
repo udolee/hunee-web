@@ -12,7 +12,29 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 10.24.2026 | ADE 2026 - Amsterdam - NL
+| 12.20.2026 | All Night Long w/ Antal b2b - Berlin - DE
+|     |
+| 12.18.2026 | All Night Long w/ Antal b2b - Amsterdam - NL
+|     |
+| 12.11.2026 | Hunchin All Night x Lux - Lisbon - PT
+|     |
+| 12.04.2026 | Hunchin All Night x EarTH - London - UK
+|     |
+| 11.20.2026 | Hunchin All Night x Rex Club - Paris - FR
+|     |
+| 11.17.2026 | Hunchin All Night x Neue Welle - Leipzig - DE
+|     |
+| 11.14.2026 | Tunnel pres. HUNEE & Paula Tape - Athens - GR
+|     |
+| 11.07.2026 | WHP presents: La Discotheque w/ Luke UNA b2b - Manchester - UK
+|     |
+| 11.06.2026 | Hunchin All Night x Fidelity Bar - Dublin - IE
+|     |
+| 10.24.2026 | ADE 2026 x No Art ADE Festival 2026 - Amsterdam - NL
+|     |
+| 10.24.2026 | ADE 2026 x ZeeZout ADE 2/ Mattias El Mansouri - Amsterdam - NL
+|     |
+| 10.24.2026 | ADE 2026 x THE LOFT pres. HUNEE b2b Stella Zekir b2b Suze Ijo - Amsterdam - NL
 |     |
 | 10.16.2026 | Eolica Festival - Granadilla de Abona - ES
 |     |
@@ -20,7 +42,7 @@ draft: false
 |     |
 | 09.06.2026 | tba - tba - ES
 |     |
-| 09.05.2026 | Pikes Presents x 528 Ibiza a/ Erol Alkan & Luke Una - Ibiza - ES
+| 09.05.2026 | Pikes Presents x 528 Ibiza w/ Erol Alkan & Luke Una b2b2b - Ibiza - ES
 |     |
 | 08.29.2026 | NAR x Het Festival - Utrecht - NL
 |     |
