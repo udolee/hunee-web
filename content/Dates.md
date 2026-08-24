@@ -32,7 +32,7 @@ draft: false
 |     |
 | 10.24.2026 | ADE 2026 x No Art ADE Festival 2026 - Amsterdam - NL
 |     |
-| 10.24.2026 | ADE 2026 x ZeeZout ADE 2/ Mattias El Mansouri - Amsterdam - NL
+| 10.24.2026 | ADE 2026 x ZeeZout ADE w/ Mattias El Mansouri - Amsterdam - NL
 |     |
 | 10.24.2026 | ADE 2026 x THE LOFT pres. HUNEE b2b Stella Zekir b2b Suze Ijo - Amsterdam - NL
 |     |
