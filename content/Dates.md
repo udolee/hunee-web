@@ -12,13 +12,13 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 12.20.2026 | All Night Long w/ Antal b2b - Berlin - DE
+| 12.20.2026 | Berlin w/ Antal b2b - Berlin - DE
 |     |
 | 12.18.2026 | All Night Long w/ Antal b2b - Amsterdam - NL
 |     |
 | 12.11.2026 | Hunchin All Night x Lux - Lisbon - PT
 |     |
-| 12.04.2026 | Hunchin All Night x EarTH - London - UK
+| 12.04.2026 | Hunchin All Night x EartH - London - UK
 |     |
 | 11.20.2026 | Hunchin All Night x Rex Club - Paris - FR
 |     |
@@ -40,7 +40,7 @@ draft: false
 |     |
 | 09.25.2026 | Hunchin All Night x Garage Noord - Amsterdam - NL
 |     |
-| 09.06.2026 | tba - tba - ES
+| 09.06.2026 | Pikes - Ibiza - ES
 |     |
 | 09.05.2026 | Pikes Presents x 528 Ibiza w/ Erol Alkan & Luke Una b2b2b - Ibiza - ES
 |     |
