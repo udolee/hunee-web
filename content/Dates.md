@@ -30,8 +30,6 @@ draft: false
 |     |
 | 11.06.2026 | Hunchin All Night x Fidelity Bar - Dublin - IE
 |     |
-| 10.24.2026 | ADE 2026 x No Art ADE Festival 2026 - Amsterdam - NL
-|     |
 | 10.24.2026 | ADE 2026 x ZeeZout ADE w/ Mattias El Mansouri - Amsterdam - NL
 |     |
 | 10.24.2026 | ADE 2026 x THE LOFT pres. HUNEE b2b Stella Zekir b2b Suze Ijo - Amsterdam - NL
