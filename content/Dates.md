@@ -12,7 +12,7 @@ draft: false
 |     |
 | booking > | italy: aa@3d-agency.it
 |     |
-| 12.20.2026 | 🏢 w/ Antal b2b - Berlin - DE
+| 12.20.2026 | Panorama Bar w/ Antal b2b - Berlin - DE
 |     |
 | 12.18.2026 | All Night Long x Lofi w/ Antal b2b - Amsterdam - NL
 |     |
